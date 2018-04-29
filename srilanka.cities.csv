@@ -1,0 +1,1846 @@
+cityId,stateId,en_name,lat,lng,state_name,country_name
+329,1,Akarawita,6.95,80.1,Western,Sri Lanka
+330,1,Ambalangoda,6.77533,79.96413,Western,Sri Lanka
+331,1,Athurugiriya,6.873072,79.997214,Western,Sri Lanka
+332,1,Avissawella,6.955003,80.211692,Western,Sri Lanka
+333,1,Batawala,6.877924,80.051592,Western,Sri Lanka
+334,1,Battaramulla,6.900299,79.922136,Western,Sri Lanka
+335,1,Biyagama,6.9408,79.9889,Western,Sri Lanka
+336,1,Bope,6.8333,80.1167,Western,Sri Lanka
+337,1,Boralesgamuwa,6.8425,79.9006,Western,Sri Lanka
+338,1,Colombo 8,6.914722,79.877778,Western,Sri Lanka
+339,1,Dedigamuwa,6.9115,80.0622,Western,Sri Lanka
+340,1,Dehiwala,6.856387,79.865156,Western,Sri Lanka
+341,1,Deltara,6.7833,79.9167,Western,Sri Lanka
+342,1,Habarakada,6.882518,80.017704,Western,Sri Lanka
+343,1,Hanwella,6.905988,80.083333,Western,Sri Lanka
+344,1,Hiripitya,6.85,79.95,Western,Sri Lanka
+345,1,Hokandara,6.890237,79.969894,Western,Sri Lanka
+346,1,Homagama,6.85685,80.005384,Western,Sri Lanka
+347,1,Horagala,6.807635,80.066995,Western,Sri Lanka
+348,1,Kaduwela,6.930497,79.984817,Western,Sri Lanka
+349,1,Kaluaggala,6.9167,80.1,Western,Sri Lanka
+350,1,Kapugoda,6.9486,80.1,Western,Sri Lanka
+351,1,Kehelwatta,6.75,79.9167,Western,Sri Lanka
+352,1,Kiriwattuduwa,6.804157,80.009759,Western,Sri Lanka
+353,1,Kolonnawa,6.933035,79.888095,Western,Sri Lanka
+354,1,Kosgama,6.9333,80.1411,Western,Sri Lanka
+355,1,Madapatha,6.766824,79.930103,Western,Sri Lanka
+356,1,Maharagama,6.843401,79.932766,Western,Sri Lanka
+357,1,Malabe,6.901241,79.958072,Western,Sri Lanka
+358,1,Moratuwa,6.7733,79.8825,Western,Sri Lanka
+359,1,Mount Lavinia,6.838864,79.863141,Western,Sri Lanka
+360,1,Mullegama,6.887403,80.012959,Western,Sri Lanka
+361,1,Napawela,6.9531,80.2183,Western,Sri Lanka
+362,1,Nugegoda,6.877563,79.886231,Western,Sri Lanka
+363,1,Padukka,6.837834,80.090301,Western,Sri Lanka
+364,1,Pannipitiya,6.843999,79.944518,Western,Sri Lanka
+365,1,Piliyandala,6.7981,79.9264,Western,Sri Lanka
+366,1,Pitipana Homagama,6.8477,80.016,Western,Sri Lanka
+367,1,Polgasowita,6.7842,79.9811,Western,Sri Lanka
+368,1,Pugoda,6.9703,80.1222,Western,Sri Lanka
+369,1,Ranala,6.915253,80.032962,Western,Sri Lanka
+370,1,Siddamulla,6.815785,79.955978,Western,Sri Lanka
+371,1,Siyambalagoda,6.800041,79.966845,Western,Sri Lanka
+372,1,Sri Jayawardenepu,6.8897,79.9359,Western,Sri Lanka
+373,1,Talawatugoda,6.8692,79.9411,Western,Sri Lanka
+374,1,Tummodara,6.9061,80.1353,Western,Sri Lanka
+375,1,Waga,6.9061,80.1353,Western,Sri Lanka
+376,1,Colombo 6,6.874657,79.860483,Western,Sri Lanka
+1002,1,Colombo 2,6.926944,79.848611,Western,Sri Lanka
+1124,1,Colombo 13,6.942778,79.858611,Western,Sri Lanka
+1837,1,Colombo 1,6.925833,79.841667,Western,Sri Lanka
+1838,1,Colombo 3,6.900556,79.853333,Western,Sri Lanka
+1839,1,Colombo 4,6.888889,79.856667,Western,Sri Lanka
+1840,1,Colombo 5,6.879444,79.865278,Western,Sri Lanka
+1841,1,Colombo 7,6.906667,79.863333,Western,Sri Lanka
+1842,1,Colombo 9,6.93,79.877778,Western,Sri Lanka
+1843,1,Colombo 10,6.928333,79.864167,Western,Sri Lanka
+1844,1,Colombo 11,6.936667,79.849722,Western,Sri Lanka
+1845,1,Colombo 12,6.9425,79.858333,Western,Sri Lanka
+1846,1,Colombo 14,6.9475,79.874722,Western,Sri Lanka
+464,1,Akaragama,7.262603,79.958057,Western,Sri Lanka
+465,1,Ambagaspitiya,7.0833,80.0667,Western,Sri Lanka
+466,1,Ambepussa,7.25,80.1667,Western,Sri Lanka
+467,1,Andiambalama,7.188346,79.902344,Western,Sri Lanka
+468,1,Attanagalla,7.1119,80.1328,Western,Sri Lanka
+469,1,Badalgama,7.291218,79.978003,Western,Sri Lanka
+470,1,Banduragoda,7.2319,80.0678,Western,Sri Lanka
+471,1,Batuwatta,7.058399,79.932048,Western,Sri Lanka
+472,1,Bemmulla,7.120933,80.028191,Western,Sri Lanka
+473,1,Biyagama IPZ,6.9492,80.0153,Western,Sri Lanka
+474,1,Bokalagama,7.2333,80.15,Western,Sri Lanka
+475,1,Bollete WP,7.0667,79.95,Western,Sri Lanka
+476,1,Bopagama,7.079641,80.15868,Western,Sri Lanka
+477,1,Buthpitiya,7.042846,80.051854,Western,Sri Lanka
+478,1,Dagonna,7.221568,79.927455,Western,Sri Lanka
+479,1,Danowita,7.2028,80.1758,Western,Sri Lanka
+480,1,Debahera,7.1389,80.0981,Western,Sri Lanka
+481,1,Dekatana,6.968317,80.035385,Western,Sri Lanka
+482,1,Delgoda,6.986583,80.01576,Western,Sri Lanka
+483,1,Delwagura,7.265367,80.003272,Western,Sri Lanka
+484,1,Demalagama,6.988934,80.046886,Western,Sri Lanka
+485,1,Demanhandiya,7.2333,79.9,Western,Sri Lanka
+486,1,Dewalapola,7.162553,79.997446,Western,Sri Lanka
+487,1,Divulapitiya,7.2167,80.0156,Western,Sri Lanka
+488,1,Divuldeniya,7.3,80.1,Western,Sri Lanka
+489,1,Dompe,6.949806,80.055083,Western,Sri Lanka
+490,1,Dunagaha,7.2342,79.9756,Western,Sri Lanka
+491,1,Ekala,7.105558,79.91532,Western,Sri Lanka
+492,1,Ellakkala,7.135968,80.132524,Western,Sri Lanka
+493,1,Essella,7.178736,80.021603,Western,Sri Lanka
+494,1,Galedanda,6.964202,79.930611,Western,Sri Lanka
+495,1,Gampaha,7.0917,79.9942,Western,Sri Lanka
+496,1,Ganemulla,7.064183,79.963294,Western,Sri Lanka
+497,1,Giriulla,7.3275,80.1267,Western,Sri Lanka
+498,1,Gonawala,6.9612,79.9992,Western,Sri Lanka
+499,1,Halpe,7.261935,80.10821,Western,Sri Lanka
+500,1,Hapugastenna,7.1,80.1667,Western,Sri Lanka
+501,1,Heiyanthuduwa,6.96283,79.963309,Western,Sri Lanka
+502,1,Hinatiyana Madawala,7.1667,79.95,Western,Sri Lanka
+503,1,Hiswella,7.021559,80.160869,Western,Sri Lanka
+504,1,Horampella,7.185188,79.976771,Western,Sri Lanka
+505,1,Hunumulla,7.244925,79.996921,Western,Sri Lanka
+506,1,Hunupola,7.111463,80.130625,Western,Sri Lanka
+507,1,Ihala Madampella,7.250345,79.960941,Western,Sri Lanka
+508,1,Imbulgoda,7.035,79.9931,Western,Sri Lanka
+509,1,Ja-Ela,7.076147,79.894932,Western,Sri Lanka
+510,1,Kadawatha,7.0258,79.9882,Western,Sri Lanka
+511,1,Kahatowita,7.0667,80.1167,Western,Sri Lanka
+512,1,Kalagedihena,7.118004,80.058001,Western,Sri Lanka
+513,1,Kaleliya,7.195,80.1136,Western,Sri Lanka
+514,1,Kandana,7.05056,79.895123,Western,Sri Lanka
+515,1,Katana,7.2517,79.9078,Western,Sri Lanka
+516,1,Katudeniya,7.3,80.0833,Western,Sri Lanka
+517,1,Katunayake,7.1647,79.8731,Western,Sri Lanka
+518,1,Katunayake Air Force Camp,7.1407,79.8782,Western,Sri Lanka
+519,1,KatunayakeFTZ,7.1407,79.8782,Western,Sri Lanka
+520,1,Katuwellegama,7.208557,79.94572,Western,Sri Lanka
+521,1,Kelaniya,6.956357,79.921431,Western,Sri Lanka
+522,1,Kimbulapitiya,7.202265,79.908937,Western,Sri Lanka
+523,1,Kirindiwela,7.044223,80.126707,Western,Sri Lanka
+524,1,Kitalawalana,7.3,80.1,Western,Sri Lanka
+525,1,Kochchikade,7.2581,79.8542,Western,Sri Lanka
+526,1,Kotadeniyawa,7.279861,80.05581,Western,Sri Lanka
+527,1,Kotugoda,7.1217,79.9297,Western,Sri Lanka
+528,1,Kumbaloluwa,7.179375,80.082233,Western,Sri Lanka
+529,1,Loluwagoda,7.294586,80.126624,Western,Sri Lanka
+530,1,Mabodale,7.2,80.0167,Western,Sri Lanka
+531,1,Madelgamuwa,7.110062,79.948175,Western,Sri Lanka
+532,1,Makewita,7.1,79.9333,Western,Sri Lanka
+533,1,Makola,6.983178,79.9525,Western,Sri Lanka
+534,1,Malwana,6.951988,80.012561,Western,Sri Lanka
+535,1,Mandawala,7.003066,80.097082,Western,Sri Lanka
+536,1,Marandagahamula,7.2447,79.9696,Western,Sri Lanka
+537,1,Mellawagedara,7.285808,80.023977,Western,Sri Lanka
+538,1,Minuwangoda,7.176455,79.954904,Western,Sri Lanka
+539,1,Mirigama,7.2414,80.1325,Western,Sri Lanka
+540,1,Miriswatta,7.0711,80.0183,Western,Sri Lanka
+541,1,Mithirigala,6.9648,80.0648,Western,Sri Lanka
+542,1,Muddaragama,7.2167,80.05,Western,Sri Lanka
+543,1,Mudungoda,7.064698,79.999092,Western,Sri Lanka
+544,1,Mulleriyawa New Town,6.9301,80.0549,Western,Sri Lanka
+545,1,Naranwala,7.001631,80.027404,Western,Sri Lanka
+546,1,Nawana,7.270062,80.092618,Western,Sri Lanka
+547,1,Nedungamuwa,7.05,80.0333,Western,Sri Lanka
+548,1,Negombo,7.2086,79.8358,Western,Sri Lanka
+549,1,Nikadalupotha,7.1167,80.1333,Western,Sri Lanka
+550,1,Nikahetikanda,7.099089,80.179551,Western,Sri Lanka
+551,1,Nittambuwa,7.144243,80.096178,Western,Sri Lanka
+552,1,Niwandama,7.078762,79.928331,Western,Sri Lanka
+553,1,Opatha,7.132037,79.921419,Western,Sri Lanka
+554,1,Pamunugama,7.094359,79.844569,Western,Sri Lanka
+555,1,Pamunuwatta,7.214678,80.139696,Western,Sri Lanka
+556,1,Panawala,6.9833,80.0333,Western,Sri Lanka
+557,1,Pasyala,7.172926,80.115911,Western,Sri Lanka
+558,1,Peliyagoda,6.960977,79.878852,Western,Sri Lanka
+559,1,Pepiliyawala,7.002342,80.128886,Western,Sri Lanka
+560,1,Pethiyagoda,7.1167,80.0167,Western,Sri Lanka
+561,1,Polpithimukulana,7.0444,79.8782,Western,Sri Lanka
+562,1,Puwakpitiya,7.040498,80.064451,Western,Sri Lanka
+563,1,Radawadunna,7.177279,80.141344,Western,Sri Lanka
+564,1,Radawana,7.029871,80.100915,Western,Sri Lanka
+565,1,Raddolugama,7.140656,79.898198,Western,Sri Lanka
+566,1,Ragama,7.025281,79.917386,Western,Sri Lanka
+567,1,Ruggahawila,7.0667,80.1167,Western,Sri Lanka
+568,1,Seeduwa,7.132059,79.885024,Western,Sri Lanka
+569,1,Siyambalape,6.964545,79.986406,Western,Sri Lanka
+570,1,Talahena,7.1667,79.8167,Western,Sri Lanka
+571,1,Thambagalla,7.1167,80.1333,Western,Sri Lanka
+572,1,Thimbirigaskatuwa,7.2669,79.9495,Western,Sri Lanka
+573,1,Tittapattara,6.9297,80.0889,Western,Sri Lanka
+574,1,Udathuthiripitiya,7.075,80.0333,Western,Sri Lanka
+575,1,Udugampola,7.1167,79.9833,Western,Sri Lanka
+576,1,Uggalboda,7.135549,79.948259,Western,Sri Lanka
+577,1,Urapola,7.104792,80.136935,Western,Sri Lanka
+578,1,Uswetakeiyawa,7.031046,79.860339,Western,Sri Lanka
+579,1,Veyangoda,7.156981,80.095842,Western,Sri Lanka
+580,1,Walgammulla,7.071902,80.116511,Western,Sri Lanka
+581,1,Walpita,7.258131,80.034704,Western,Sri Lanka
+582,1,Walpola WP ,7.0418,79.9257,Western,Sri Lanka
+583,1,Wathurugama,7.0421,80.0701,Western,Sri Lanka
+584,1,Watinapaha,7.2,79.9833,Western,Sri Lanka
+585,1,Wattala,6.990037,79.892207,Western,Sri Lanka
+586,1,Weboda,7.0167,79.9833,Western,Sri Lanka
+587,1,Wegowwa,7.178443,79.962063,Western,Sri Lanka
+588,1,Weweldeniya,7.1834,80.1446,Western,Sri Lanka
+589,1,Yakkala,7.1167,80.05,Western,Sri Lanka
+590,1,Yatiyana,7.184998,79.931858,Western,Sri Lanka
+655,1,Agalawatta,6.541499,80.155785,Western,Sri Lanka
+656,1,Alubomulla,6.711977,79.965857,Western,Sri Lanka
+657,1,Anguruwatota,6.6383,80.0861,Western,Sri Lanka
+658,1,Atale,6.45,80.2667,Western,Sri Lanka
+659,1,Baduraliya,6.523102,80.232371,Western,Sri Lanka
+660,1,Bandaragama,6.710264,79.986087,Western,Sri Lanka
+661,1,Batugampola,6.769068,80.142775,Western,Sri Lanka
+662,1,Bellana,6.518936,80.183117,Western,Sri Lanka
+663,1,Beruwala,6.4739,79.9842,Western,Sri Lanka
+664,1,Bolossagama,6.62099,80.015288,Western,Sri Lanka
+665,1,Bombuwala,6.5833,80.0167,Western,Sri Lanka
+666,1,Boralugoda,6.438709,80.278799,Western,Sri Lanka
+667,1,Bulathsinhala,6.666199,80.164896,Western,Sri Lanka
+668,1,Danawala Thiniyawala,6.4333,80.2667,Western,Sri Lanka
+669,1,Delmella,6.67833,80.210488,Western,Sri Lanka
+670,1,Dharga Town,6.648,80.0089,Western,Sri Lanka
+671,1,Diwalakada,6.696767,80.146983,Western,Sri Lanka
+672,1,Dodangoda,6.555952,80.006847,Western,Sri Lanka
+673,1,Dombagoda,6.661797,80.053343,Western,Sri Lanka
+674,1,Ethkandura,6.4415,80.1807,Western,Sri Lanka
+675,1,Galpatha,6.5983,80.0015,Western,Sri Lanka
+676,1,Gamagoda,6.597103,80.005539,Western,Sri Lanka
+677,1,Gonagalpura,6.6307,80.0169,Western,Sri Lanka
+678,1,Gonapola Junction,6.6944,80.0333,Western,Sri Lanka
+679,1,Govinna,6.663337,80.116274,Western,Sri Lanka
+680,1,Gurulubadda,6.5333,80.2667,Western,Sri Lanka
+681,1,Halkandawila,6.5167,80.0167,Western,Sri Lanka
+682,1,Haltota,6.69554,80.02127,Western,Sri Lanka
+683,1,Halvitigala Colony,6.5791,80.2233,Western,Sri Lanka
+684,1,Halwala,6.416524,80.106562,Western,Sri Lanka
+685,1,Halwatura,6.7,80.2,Western,Sri Lanka
+686,1,Handapangoda,6.789746,80.140774,Western,Sri Lanka
+687,1,Hedigalla Colony,6.5333,80.2667,Western,Sri Lanka
+688,1,Henegama,6.7167,80.0333,Western,Sri Lanka
+689,1,Hettimulla,6.461362,79.992643,Western,Sri Lanka
+690,1,Horana,6.719389,80.061557,Western,Sri Lanka
+691,1,Ittapana,6.42254,80.079501,Western,Sri Lanka
+692,1,Kahawala,6.7833,80.1,Western,Sri Lanka
+693,1,Kalawila Kiranthidiya,6.4619,80.0004,Western,Sri Lanka
+694,1,Kalutara,6.581333,79.958546,Western,Sri Lanka
+695,1,Kananwila,6.7667,80.05,Western,Sri Lanka
+696,1,Kandanagama,6.7667,80.0778,Western,Sri Lanka
+697,1,Kelinkanda,6.587128,80.29322,Western,Sri Lanka
+698,1,Kitulgoda,6.5167,80.1833,Western,Sri Lanka
+699,1,Koholana,6.618149,79.989353,Western,Sri Lanka
+700,1,Kuda Uduwa,6.747871,80.078499,Western,Sri Lanka
+701,1,Labbala,6.4833,80,Western,Sri Lanka
+702,1,lhalahewessa,6.4415,80.1807,Western,Sri Lanka
+703,1,lnduruwa,6.4681,80.0257,Western,Sri Lanka
+704,1,lngiriya,6.7296,80.0604,Western,Sri Lanka
+705,1,Maggona,6.503158,79.977597,Western,Sri Lanka
+706,1,Mahagama,6.620177,80.154204,Western,Sri Lanka
+707,1,Mahakalupahana,6.3917,80.1417,Western,Sri Lanka
+708,1,Maharangalla,6.4667,80,Western,Sri Lanka
+709,1,Malgalla Talangalla,6.5791,80.2233,Western,Sri Lanka
+710,1,Matugama,6.5222,80.1144,Western,Sri Lanka
+711,1,Meegahatenna,6.3637,80.285,Western,Sri Lanka
+712,1,Meegama,6.648,80.0089,Western,Sri Lanka
+713,1,Meegoda,6.8053,80.0829,Western,Sri Lanka
+714,1,Millaniya,6.686206,80.017227,Western,Sri Lanka
+715,1,Millewa,6.7833,80.0667,Western,Sri Lanka
+716,1,Miwanapalana,6.75,80.1,Western,Sri Lanka
+717,1,Molkawa,6.607725,80.238612,Western,Sri Lanka
+718,1,Morapitiya,6.527127,80.263667,Western,Sri Lanka
+719,1,Morontuduwa,6.65,79.9667,Western,Sri Lanka
+720,1,Nawattuduwa,6.5019,80.0937,Western,Sri Lanka
+721,1,Neboda,6.5906,80.0842,Western,Sri Lanka
+722,1,Padagoda,6.456979,80.009049,Western,Sri Lanka
+723,1,Pahalahewessa,6.4333,80.2667,Western,Sri Lanka
+724,1,Paiyagala,6.5167,80.0167,Western,Sri Lanka
+725,1,Panadura,6.7133,79.9042,Western,Sri Lanka
+726,1,Pannala,6.4833,80,Western,Sri Lanka
+727,1,Paragastota,6.6667,80,Western,Sri Lanka
+728,1,Paragoda,6.627108,80.24112,Western,Sri Lanka
+729,1,Paraigama,6.4167,80.1167,Western,Sri Lanka
+730,1,Pelanda,6.6056,80.2333,Western,Sri Lanka
+731,1,Pelawatta,6.385227,80.207989,Western,Sri Lanka
+732,1,Pimbura,6.570997,80.161311,Western,Sri Lanka
+733,1,Pitagaldeniya,6.45,80.2667,Western,Sri Lanka
+734,1,Pokunuwita,6.7333,80.0333,Western,Sri Lanka
+735,1,Poruwedanda,6.7333,80.1167,Western,Sri Lanka
+736,1,Ratmale,6.45,80.2,Western,Sri Lanka
+737,1,Remunagoda,6.594994,80.031349,Western,Sri Lanka
+738,1,Talgaswela,6.4415,80.1807,Western,Sri Lanka
+739,1,Tebuwana,6.5944,80.0611,Western,Sri Lanka
+740,1,Uduwara,6.6167,80.0667,Western,Sri Lanka
+741,1,Utumgama,6.3917,80.1417,Western,Sri Lanka
+742,1,Veyangalla,6.5422,80.1583,Western,Sri Lanka
+743,1,Wadduwa,6.667121,79.924051,Western,Sri Lanka
+744,1,Walagedara,6.437775,80.071449,Western,Sri Lanka
+745,1,Walallawita,6.3667,80.2,Western,Sri Lanka
+746,1,Waskaduwa,6.6317,79.9442,Western,Sri Lanka
+747,1,Welipenna,6.466448,80.101763,Western,Sri Lanka
+748,1,Weliveriya,6.7167,80.0333,Western,Sri Lanka
+749,1,Welmilla Junction,6.7072,80.01,Western,Sri Lanka
+750,1,Weragala,6.527062,80.004097,Western,Sri Lanka
+751,1,Yagirala,6.378714,80.161812,Western,Sri Lanka
+752,1,Yatadolawatta,6.52309,80.064428,Western,Sri Lanka
+753,1,Yatawara Junction,6.5983,80.0015,Western,Sri Lanka
+754,2,Aludeniya,7.370491,80.46648,Central,Sri Lanka
+755,2,Ambagahapelessa,7.243803,81.00264,Central,Sri Lanka
+756,2,Ambagamuwa Udabulathgama,7.0333,80.5,Central,Sri Lanka
+757,2,Ambatenna,7.3472,80.6192,Central,Sri Lanka
+758,2,Ampitiya,7.2667,80.65,Central,Sri Lanka
+759,2,Ankumbura,7.434149,80.568704,Central,Sri Lanka
+760,2,Atabage,7.1333,80.6,Central,Sri Lanka
+761,2,Balana,7.269032,80.485503,Central,Sri Lanka
+762,2,Bambaragahaela,7.0523,80.5023,Central,Sri Lanka
+763,2,Batagolladeniya,7.41596,80.576688,Central,Sri Lanka
+764,2,Batugoda,7.366275,80.59604,Central,Sri Lanka
+765,2,Batumulla,7.256086,80.978905,Central,Sri Lanka
+766,2,Bawlana,7.211388,80.718828,Central,Sri Lanka
+767,2,Bopana,7.3,80.9,Central,Sri Lanka
+768,2,Danture,7.2833,80.5333,Central,Sri Lanka
+769,2,Dedunupitiya,7.3333,80.4333,Central,Sri Lanka
+770,2,Dekinda,7.014688,80.509932,Central,Sri Lanka
+771,2,Deltota,7.2,80.6667,Central,Sri Lanka
+772,2,Divulankadawala,7.175,80.55,Central,Sri Lanka
+773,2,Dolapihilla,7.393576,80.584659,Central,Sri Lanka
+774,2,Dolosbage,7.0806,80.4731,Central,Sri Lanka
+775,2,Dunuwila,7.3833,80.6333,Central,Sri Lanka
+776,2,Etulgama,7.2333,80.65,Central,Sri Lanka
+777,2,Galaboda,6.9875,80.5319,Central,Sri Lanka
+778,2,Galagedara,7.369716,80.520308,Central,Sri Lanka
+779,2,Galaha,7.195764,80.668659,Central,Sri Lanka
+780,2,Galhinna,7.418361,80.560015,Central,Sri Lanka
+781,2,Gampola,7.1647,80.5767,Central,Sri Lanka
+782,2,Gelioya,7.2136,80.6017,Central,Sri Lanka
+783,2,Godamunna,7.227313,80.697447,Central,Sri Lanka
+784,2,Gomagoda,7.3167,80.7333,Central,Sri Lanka
+785,2,Gonagantenna,7.1517,80.7118,Central,Sri Lanka
+786,2,Gonawalapatana,7.0358,80.5262,Central,Sri Lanka
+787,2,Gunnepana,7.2696,80.6537,Central,Sri Lanka
+788,2,Gurudeniya,7.265953,80.702921,Central,Sri Lanka
+789,2,Hakmana,7.334701,80.82402,Central,Sri Lanka
+790,2,Handaganawa,7.277451,80.989485,Central,Sri Lanka
+791,2,Handawalapitiya,7.2,80.6667,Central,Sri Lanka
+792,2,Handessa,7.230048,80.580831,Central,Sri Lanka
+793,2,Hanguranketha,7.1517,80.7118,Central,Sri Lanka
+794,2,Harangalagama,7.0271,80.5493,Central,Sri Lanka
+795,2,Hataraliyadda,7.3333,80.4667,Central,Sri Lanka
+796,2,Hindagala,7.231512,80.600815,Central,Sri Lanka
+797,2,Hondiyadeniya,7.1364,80.5766,Central,Sri Lanka
+798,2,Hunnasgiriya,7.298756,80.849834,Central,Sri Lanka
+799,2,Inguruwatta,7.175038,80.599767,Central,Sri Lanka
+800,2,Jambugahapitiya,7.3833,80.6333,Central,Sri Lanka
+801,2,Kadugannawa,7.2536,80.5275,Central,Sri Lanka
+802,2,Kahataliyadda,7.376,80.8213,Central,Sri Lanka
+803,2,Kalugala,7.390136,80.883008,Central,Sri Lanka
+804,2,Kandy,7.2964,80.635,Central,Sri Lanka
+805,2,Kapuliyadde,7.2401,80.6808,Central,Sri Lanka
+806,2,Katugastota,7.3161,80.6211,Central,Sri Lanka
+807,2,Katukitula,7.1089,80.6339,Central,Sri Lanka
+808,2,Kelanigama,7.0049,80.5182,Central,Sri Lanka
+809,2,Kengalla,7.296461,80.711767,Central,Sri Lanka
+810,2,Ketaboola,7.0271,80.5493,Central,Sri Lanka
+811,2,Ketakumbura,7.210532,80.571678,Central,Sri Lanka
+812,2,Kobonila,7.376,80.8213,Central,Sri Lanka
+813,2,Kolabissa,7.225,80.7167,Central,Sri Lanka
+814,2,Kolongoda,7.3552,80.8375,Central,Sri Lanka
+815,2,Kulugammana,7.315193,80.590268,Central,Sri Lanka
+816,2,Kumbukkandura,7.2969,80.7686,Central,Sri Lanka
+817,2,Kumburegama,7.357279,80.551316,Central,Sri Lanka
+818,2,Kundasale,7.2667,80.6833,Central,Sri Lanka
+819,2,Leemagahakotuwa,7.2333,80.5833,Central,Sri Lanka
+820,2,lhala Kobbekaduwa,7.3167,80.5833,Central,Sri Lanka
+821,2,Lunugama,7.198402,80.578244,Central,Sri Lanka
+822,2,Lunuketiya Maditta,7.3292,80.716,Central,Sri Lanka
+823,2,Madawala Bazaar,7.2696,80.6537,Central,Sri Lanka
+824,2,Madawalalanda,7.3792,80.4982,Central,Sri Lanka
+825,2,Madugalla,7.265802,80.882139,Central,Sri Lanka
+826,2,Madulkele,7.400281,80.728874,Central,Sri Lanka
+827,2,Mahadoraliyadda,7.3,80.85,Central,Sri Lanka
+828,2,Mahamedagama,7.225,80.7167,Central,Sri Lanka
+829,2,Mahanagapura,7.3792,80.4982,Central,Sri Lanka
+830,2,Mailapitiya,7.1517,80.7118,Central,Sri Lanka
+831,2,Makkanigama,7.3833,80.6333,Central,Sri Lanka
+832,2,Makuldeniya,7.341706,80.777466,Central,Sri Lanka
+833,2,Mangalagama,7.285856,80.563656,Central,Sri Lanka
+834,2,Mapakanda,7.007889,80.531101,Central,Sri Lanka
+835,2,Marassana,7.221663,80.732336,Central,Sri Lanka
+836,2,Marymount Colony,7.1517,80.7118,Central,Sri Lanka
+837,2,Mawatura,7.1,80.5667,Central,Sri Lanka
+838,2,Medamahanuwara,7.3,80.85,Central,Sri Lanka
+839,2,Medawala Harispattuwa,7.3417,80.6833,Central,Sri Lanka
+840,2,Meetalawa,7.0986,80.4699,Central,Sri Lanka
+841,2,Megoda Kalugamuwa,7.2631,80.6028,Central,Sri Lanka
+842,2,Menikdiwela,7.288455,80.501662,Central,Sri Lanka
+843,2,Menikhinna,7.3167,80.7,Central,Sri Lanka
+844,2,Mimure,7.4333,80.8333,Central,Sri Lanka
+845,2,Minigamuwa,7.3333,80.5167,Central,Sri Lanka
+846,2,Minipe,7.223556,80.990971,Central,Sri Lanka
+847,2,Moragahapallama,7.3792,80.4982,Central,Sri Lanka
+848,2,Murutalawa,7.3,80.5667,Central,Sri Lanka
+849,2,Muruthagahamulla,7.1364,80.5766,Central,Sri Lanka
+850,2,Nanuoya,7.1171,80.6387,Central,Sri Lanka
+851,2,Naranpanawa,7.339733,80.729831,Central,Sri Lanka
+852,2,Narawelpita,7.3167,80.8,Central,Sri Lanka
+853,2,Nawalapitiya,7.05048,80.530631,Central,Sri Lanka
+854,2,Nawathispane,7.0333,80.5,Central,Sri Lanka
+855,2,Nillambe,7.15,80.6333,Central,Sri Lanka
+856,2,Nugaliyadda,7.2333,80.7,Central,Sri Lanka
+857,2,Ovilikanda,7.45,80.5667,Central,Sri Lanka
+858,2,Pallekotuwa,7.3333,80.5667,Central,Sri Lanka
+859,2,Panwilatenna,7.1556,80.6314,Central,Sri Lanka
+860,2,Paradeka,7.12293,80.618959,Central,Sri Lanka
+861,2,Pasbage,7.0358,80.5262,Central,Sri Lanka
+862,2,Pattitalawa,7.1167,80.4667,Central,Sri Lanka
+863,2,Peradeniya,7.2631,80.6028,Central,Sri Lanka
+864,2,Pilimatalawa,7.2333,80.5333,Central,Sri Lanka
+865,2,Poholiyadda,7.343274,80.520186,Central,Sri Lanka
+866,2,Pubbiliya,7.385927,80.481336,Central,Sri Lanka
+867,2,Pupuressa,7.115632,80.677455,Central,Sri Lanka
+868,2,Pussellawa,7.112565,80.644101,Central,Sri Lanka
+869,2,Putuhapuwa,7.334198,80.759353,Central,Sri Lanka
+870,2,Rajawella,7.280519,80.748217,Central,Sri Lanka
+871,2,Rambukpitiya,7.0333,80.5,Central,Sri Lanka
+872,2,Rambukwella,7.294759,80.777664,Central,Sri Lanka
+873,2,Rangala,7.344486,80.795047,Central,Sri Lanka
+874,2,Rantembe,7.3552,80.8375,Central,Sri Lanka
+875,2,Sangarajapura,7.3167,80.5833,Central,Sri Lanka
+876,2,Senarathwela,7.280125,80.761602,Central,Sri Lanka
+877,2,Talatuoya,7.2536,80.6925,Central,Sri Lanka
+878,2,Teldeniya,7.2969,80.7686,Central,Sri Lanka
+879,2,Tennekumbura,7.2833,80.6667,Central,Sri Lanka
+880,2,Uda Peradeniya,7.249001,80.614072,Central,Sri Lanka
+881,2,Udahentenna,7.0889,80.5189,Central,Sri Lanka
+882,2,Udatalawinna,7.3161,80.6211,Central,Sri Lanka
+883,2,Udispattuwa,7.3552,80.8375,Central,Sri Lanka
+884,2,Ududumbara,7.3552,80.8375,Central,Sri Lanka
+885,2,Uduwahinna,7.2833,80.8917,Central,Sri Lanka
+886,2,Uduwela,7.2722,80.6667,Central,Sri Lanka
+887,2,Ulapane,7.114072,80.552445,Central,Sri Lanka
+888,2,Unuwinna,7.1517,80.7118,Central,Sri Lanka
+889,2,Velamboda,7.0523,80.5023,Central,Sri Lanka
+890,2,Watagoda,7.39731,80.588304,Central,Sri Lanka
+891,2,Watagoda Harispattuwa,7.3569,80.6012,Central,Sri Lanka
+892,2,Wattappola,7.234802,80.543661,Central,Sri Lanka
+893,2,Weligampola,7.0271,80.5493,Central,Sri Lanka
+894,2,Wendaruwa,7.3552,80.8375,Central,Sri Lanka
+895,2,Weragantota,7.3167,80.9833,Central,Sri Lanka
+896,2,Werapitya,7.2969,80.7686,Central,Sri Lanka
+897,2,Werellagama,7.3167,80.5833,Central,Sri Lanka
+898,2,Wettawa,7.3508,80.5221,Central,Sri Lanka
+899,2,Yahalatenna,7.3,80.5667,Central,Sri Lanka
+900,2,Yatihalagala,7.3,80.6,Central,Sri Lanka
+1287,2,Akuramboda,7.646383,80.600048,Central,Sri Lanka
+1288,2,Alawatuwala,7.55,80.5583,Central,Sri Lanka
+1289,2,Alwatta,7.449444,80.663358,Central,Sri Lanka
+1290,2,Ambana,7.651007,80.693816,Central,Sri Lanka
+1291,2,Aralaganwila,7.696,80.5842,Central,Sri Lanka
+1292,2,Ataragallewa,7.5333,80.6067,Central,Sri Lanka
+1293,2,Bambaragaswewa,7.784315,80.540511,Central,Sri Lanka
+1294,2,Barawardhana Oya,7.5667,80.625,Central,Sri Lanka
+1295,2,Beligamuwa,7.725882,80.552789,Central,Sri Lanka
+1296,2,Damana,7.8417,80.5797,Central,Sri Lanka
+1297,2,Dambulla,7.868039,80.646464,Central,Sri Lanka
+1298,2,Damminna,7.696,80.5842,Central,Sri Lanka
+1299,2,Dankanda,7.519616,80.694168,Central,Sri Lanka
+1300,2,Delwite,7.55,80.5583,Central,Sri Lanka
+1301,2,Devagiriya,7.5833,80.9667,Central,Sri Lanka
+1302,2,Dewahuwa,7.7589,80.5683,Central,Sri Lanka
+1303,2,Divuldamana,7.696,80.5842,Central,Sri Lanka
+1304,2,Dullewa,7.511012,80.59862,Central,Sri Lanka
+1305,2,Dunkolawatta,7.4917,80.625,Central,Sri Lanka
+1306,2,Elkaduwa,7.410706,80.693258,Central,Sri Lanka
+1307,2,Erawula Junction,7.8633,80.6842,Central,Sri Lanka
+1308,2,Etanawala,7.5217,80.6847,Central,Sri Lanka
+1309,2,Galewela,7.759807,80.56744,Central,Sri Lanka
+1310,2,Galoya Junction,7.696,80.5842,Central,Sri Lanka
+1311,2,Gammaduwa,7.581654,80.698521,Central,Sri Lanka
+1312,2,Gangala Puwakpitiya,7.5217,80.6847,Central,Sri Lanka
+1313,2,Hasalaka,7.5667,80.625,Central,Sri Lanka
+1314,2,Hattota Amuna,7.5333,80.6067,Central,Sri Lanka
+1315,2,Imbulgolla,7.575027,80.663159,Central,Sri Lanka
+1316,2,Inamaluwa,7.951344,80.690187,Central,Sri Lanka
+1317,2,Iriyagolla,7.55,80.6333,Central,Sri Lanka
+1318,2,Kaikawala,7.507177,80.659444,Central,Sri Lanka
+1319,2,Kalundawa,7.8,80.7167,Central,Sri Lanka
+1320,2,Kandalama,7.887403,80.703507,Central,Sri Lanka
+1321,2,Kavudupelella,7.5914,80.6258,Central,Sri Lanka
+1322,2,Kibissa,7.9397,80.7278,Central,Sri Lanka
+1323,2,Kiwula,7.4917,80.625,Central,Sri Lanka
+1324,2,Kongahawela,7.679932,80.706607,Central,Sri Lanka
+1325,2,Laggala Pallegama,7.5333,80.6067,Central,Sri Lanka
+1326,2,Leliambe,7.4346,80.6519,Central,Sri Lanka
+1327,2,Lenadora,7.753507,80.660161,Central,Sri Lanka
+1328,2,lhala Halmillewa,7.8667,80.6417,Central,Sri Lanka
+1329,2,lllukkumbura,7.5217,80.6847,Central,Sri Lanka
+1330,2,Madipola,7.6833,80.5833,Central,Sri Lanka
+1331,2,Maduruoya,7.696,80.5842,Central,Sri Lanka
+1332,2,Mahawela,7.581804,80.607485,Central,Sri Lanka
+1333,2,Mananwatta,7.685106,80.601107,Central,Sri Lanka
+1334,2,Maraka,7.586801,80.962009,Central,Sri Lanka
+1335,2,Matale,7.4717,80.6244,Central,Sri Lanka
+1336,2,Melipitiya,7.5458,80.5833,Central,Sri Lanka
+1337,2,Metihakka,7.536495,80.654081,Central,Sri Lanka
+1338,2,Millawana,7.6503,80.5772,Central,Sri Lanka
+1339,2,Muwandeniya,7.461452,80.660098,Central,Sri Lanka
+1340,2,Nalanda,7.662487,80.635004,Central,Sri Lanka
+1341,2,Naula,7.708132,80.652321,Central,Sri Lanka
+1342,2,Opalgala,7.619927,80.698338,Central,Sri Lanka
+1343,2,Pallepola,7.620686,80.600466,Central,Sri Lanka
+1344,2,Pimburattewa,7.696,80.5842,Central,Sri Lanka
+1345,2,Pulastigama,7.67,80.565,Central,Sri Lanka
+1346,2,Ranamuregama,7.5333,80.6067,Central,Sri Lanka
+1347,2,Rattota,7.5217,80.6847,Central,Sri Lanka
+1348,2,Selagama,7.594457,80.58381,Central,Sri Lanka
+1349,2,Sigiriya,7.954968,80.755205,Central,Sri Lanka
+1350,2,Sinhagama,7.696,80.5842,Central,Sri Lanka
+1351,2,Sungavila,7.67,80.565,Central,Sri Lanka
+1352,2,Talagoda Junction,7.5722,80.6222,Central,Sri Lanka
+1353,2,Talakiriyagama,7.8206,80.6172,Central,Sri Lanka
+1354,2,Tamankaduwa,7.67,80.565,Central,Sri Lanka
+1355,2,Udasgiriya,7.535254,80.570342,Central,Sri Lanka
+1356,2,Udatenna,7.4167,80.65,Central,Sri Lanka
+1357,2,Ukuwela,7.423917,80.62996,Central,Sri Lanka
+1358,2,Wahacotte,7.7142,80.5972,Central,Sri Lanka
+1359,2,Walawela,7.520365,80.597403,Central,Sri Lanka
+1360,2,Wehigala,7.409019,80.669112,Central,Sri Lanka
+1361,2,Welangahawatte,7.5217,80.6847,Central,Sri Lanka
+1362,2,Wewalawewa,7.8103,80.6669,Central,Sri Lanka
+1363,2,Yatawatta,7.562698,80.578361,Central,Sri Lanka
+1491,2,Agarapathana,6.824224,80.709671,Central,Sri Lanka
+1492,2,Ambatalawa,7.05,80.6667,Central,Sri Lanka
+1493,2,Ambewela,6.899935,80.783603,Central,Sri Lanka
+1494,2,Bogawantalawa,6.8,80.6833,Central,Sri Lanka
+1495,2,Bopattalawa,6.9011,80.6694,Central,Sri Lanka
+1496,2,Dagampitiya,6.977604,80.466144,Central,Sri Lanka
+1497,2,Dayagama Bazaar,6.9011,80.6694,Central,Sri Lanka
+1498,2,Dikoya,6.8786,80.6272,Central,Sri Lanka
+1499,2,Doragala,7.0731,80.5892,Central,Sri Lanka
+1500,2,Dunukedeniya,6.982643,80.632911,Central,Sri Lanka
+1501,2,Egodawela,7.024081,80.662636,Central,Sri Lanka
+1502,2,Ekiriya,7.148834,80.757167,Central,Sri Lanka
+1503,2,Elamulla,7.0833,80.8,Central,Sri Lanka
+1504,2,Ginigathena,6.9864,80.4894,Central,Sri Lanka
+1505,2,Gonakele,6.9917,80.8194,Central,Sri Lanka
+1506,2,Haggala,6.9697,80.77,Central,Sri Lanka
+1507,2,Halgranoya,7.0417,80.8917,Central,Sri Lanka
+1508,2,Hangarapitiya,6.932637,80.464959,Central,Sri Lanka
+1509,2,Hapugastalawa,7.0667,80.5667,Central,Sri Lanka
+1510,2,Harasbedda,7.04738,80.876477,Central,Sri Lanka
+1511,2,Hatton,6.899356,80.599855,Central,Sri Lanka
+1512,2,Hewaheta,7.1108,80.7547,Central,Sri Lanka
+1513,2,Hitigegama,6.947521,80.457154,Central,Sri Lanka
+1514,2,Jangulla,7.0333,80.8917,Central,Sri Lanka
+1515,2,Kalaganwatta,7.104232,80.902715,Central,Sri Lanka
+1516,2,Kandapola,6.981495,80.802798,Central,Sri Lanka
+1517,2,Karandagolla,7.057024,80.899844,Central,Sri Lanka
+1518,2,Keerthi Bandarapura,7.1108,80.8581,Central,Sri Lanka
+1519,2,Kiribathkumbura,7.1108,80.7547,Central,Sri Lanka
+1520,2,Kotiyagala,6.784171,80.68557,Central,Sri Lanka
+1521,2,Kotmale,7.0214,80.5942,Central,Sri Lanka
+1522,2,Kottellena,6.893287,80.50215,Central,Sri Lanka
+1523,2,Kumbalgamuwa,7.109883,80.853852,Central,Sri Lanka
+1524,2,Kumbukwela,7.055729,80.887479,Central,Sri Lanka
+1525,2,Kurupanawela,7.01894,80.920981,Central,Sri Lanka
+1526,2,Labukele,7.0442,80.6919,Central,Sri Lanka
+1527,2,Laxapana,6.8952,80.5088,Central,Sri Lanka
+1528,2,Lindula,6.920326,80.684129,Central,Sri Lanka
+1529,2,Madulla,7.047667,80.918204,Central,Sri Lanka
+1530,2,Mandaram Nuwara,7.0833,80.8,Central,Sri Lanka
+1531,2,Maskeliya,6.831379,80.568585,Central,Sri Lanka
+1532,2,Maswela,7.072503,80.6439,Central,Sri Lanka
+1533,2,Maturata,7.0833,80.8,Central,Sri Lanka
+1534,2,Mipanawa,7.0333,80.9167,Central,Sri Lanka
+1535,2,Mipilimana,6.8667,80.8167,Central,Sri Lanka
+1536,2,Morahenagama,6.942625,80.478482,Central,Sri Lanka
+1537,2,Munwatta,7.11534,80.809403,Central,Sri Lanka
+1538,2,Nayapana Janapadaya,7.0731,80.5892,Central,Sri Lanka
+1539,2,Nildandahinna,7.0833,80.8833,Central,Sri Lanka
+1540,2,Nissanka Uyana,6.8358,80.5703,Central,Sri Lanka
+1541,2,Norwood,6.835736,80.602181,Central,Sri Lanka
+1542,2,Nuwara Eliya,6.9697,80.77,Central,Sri Lanka
+1543,2,Padiyapelella,7.092506,80.798544,Central,Sri Lanka
+1544,2,Pallebowala,7.1151,80.8108,Central,Sri Lanka
+1545,2,Panvila,7.0667,80.6833,Central,Sri Lanka
+1546,2,Pitawala,6.998608,80.452257,Central,Sri Lanka
+1547,2,Pundaluoya,7.018255,80.676081,Central,Sri Lanka
+1548,2,Ramboda,7.060427,80.69534,Central,Sri Lanka
+1549,2,Rikillagaskada,7.145849,80.78095,Central,Sri Lanka
+1550,2,Rozella,6.9306,80.5531,Central,Sri Lanka
+1551,2,Rupaha,7.0333,80.9,Central,Sri Lanka
+1552,2,Ruwaneliya,6.93721,80.772258,Central,Sri Lanka
+1553,2,Santhipura,6.9697,80.77,Central,Sri Lanka
+1554,2,Talawakele,6.9367,80.6611,Central,Sri Lanka
+1555,2,Tawalantenna,7.0667,80.6833,Central,Sri Lanka
+1556,2,Teripeha,7.1189,80.9244,Central,Sri Lanka
+1557,2,Udamadura,7.094106,80.914817,Central,Sri Lanka
+1558,2,Udapussallawa,7.0333,80.9111,Central,Sri Lanka
+1559,2,Uva Deegalla,7.0333,80.8917,Central,Sri Lanka
+1560,2,Uva Uduwara,7.0333,80.8917,Central,Sri Lanka
+1561,2,Uvaparanagama,6.8832,80.7912,Central,Sri Lanka
+1562,2,Walapane,7.091924,80.860522,Central,Sri Lanka
+1563,2,Watawala,6.951339,80.533199,Central,Sri Lanka
+1564,2,Widulipura,6.8952,80.5088,Central,Sri Lanka
+1565,2,Wijebahukanda,7.0167,80.6167,Central,Sri Lanka
+377,3,Agaliya,6.1833,80.2,Southern,Sri Lanka
+378,3,Ahangama,5.970765,80.370204,Southern,Sri Lanka
+379,3,Ahungalla,6.315216,80.03029,Southern,Sri Lanka
+380,3,Akmeemana,6.1845,80.3032,Southern,Sri Lanka
+381,3,Alawatugoda,6.4167,80,Southern,Sri Lanka
+382,3,Aluthwala,6.180801,80.136538,Southern,Sri Lanka
+383,3,Ampegama,6.193907,80.14453,Southern,Sri Lanka
+384,3,Amugoda,6.314635,80.22104,Southern,Sri Lanka
+385,3,Anangoda,6.0722,80.2389,Southern,Sri Lanka
+386,3,Angulugaha,6.036963,80.322148,Southern,Sri Lanka
+387,3,Ankokkawala,6.05329,80.274014,Southern,Sri Lanka
+388,3,Aselapura,6.3167,80.0333,Southern,Sri Lanka
+389,3,Baddegama,6.165975,80.201841,Southern,Sri Lanka
+390,3,Balapitiya,6.269254,80.036054,Southern,Sri Lanka
+391,3,Banagala,6.2706,80.42,Southern,Sri Lanka
+392,3,Batapola,6.235697,80.120034,Southern,Sri Lanka
+393,3,Bentota,6.4211,79.9989,Southern,Sri Lanka
+394,3,Boossa,6.2233,80.2,Southern,Sri Lanka
+395,3,Dellawa,6.335012,80.452741,Southern,Sri Lanka
+396,3,Dikkumbura,6.012945,80.376153,Southern,Sri Lanka
+397,3,Dodanduwa,6.0967,80.1456,Southern,Sri Lanka
+398,3,Ella Tanabaddegama,6.2922,80.1988,Southern,Sri Lanka
+399,3,Elpitiya,6.300214,80.171923,Southern,Sri Lanka
+400,3,Galle,6.0536,80.2117,Southern,Sri Lanka
+401,3,Ginimellagaha,6.2233,80.2,Southern,Sri Lanka
+402,3,Gintota,6.0564,80.1839,Southern,Sri Lanka
+403,3,Godahena,6.2333,80.0667,Southern,Sri Lanka
+404,3,Gonamulla Junction,6.0667,80.3,Southern,Sri Lanka
+405,3,Gonapinuwala,6.2233,80.2,Southern,Sri Lanka
+406,3,Habaraduwa,6.0043,80.326,Southern,Sri Lanka
+407,3,Haburugala,6.4052,80.038306,Southern,Sri Lanka
+408,3,Hikkaduwa,6.139535,80.113201,Southern,Sri Lanka
+409,3,Hiniduma,6.316028,80.328888,Southern,Sri Lanka
+410,3,Hiyare,6.079898,80.317871,Southern,Sri Lanka
+411,3,Kahaduwa,6.2244,80.21,Southern,Sri Lanka
+412,3,Kahawa,6.185429,80.07601,Southern,Sri Lanka
+413,3,Karagoda,6.084182,80.395041,Southern,Sri Lanka
+414,3,Karandeniya,6.260467,80.072462,Southern,Sri Lanka
+415,3,Kosgoda,6.332288,80.028315,Southern,Sri Lanka
+416,3,Kottawagama,6.1375,80.3419,Southern,Sri Lanka
+417,3,Kottegoda,6.1667,80.1,Southern,Sri Lanka
+418,3,Kuleegoda,6.2167,80.1167,Southern,Sri Lanka
+419,3,Magedara,6.108129,80.393927,Southern,Sri Lanka
+420,3,Mahawela Sinhapura,6.3167,80.0333,Southern,Sri Lanka
+421,3,Mapalagama,6.234713,80.27784,Southern,Sri Lanka
+422,3,Mapalagama Central,6.2167,80.3,Southern,Sri Lanka
+423,3,Mattaka,6.302366,80.254218,Southern,Sri Lanka
+424,3,Meda-Keembiya,6.1845,80.3032,Southern,Sri Lanka
+425,3,Meetiyagoda,6.189135,80.093504,Southern,Sri Lanka
+426,3,Nagoda,6.201296,80.277829,Southern,Sri Lanka
+427,3,Nakiyadeniya,6.143029,80.338164,Southern,Sri Lanka
+428,3,Nawadagala,6.304655,80.134175,Southern,Sri Lanka
+429,3,Neluwa,6.37393,80.363267,Southern,Sri Lanka
+430,3,Nindana,6.207731,80.107663,Southern,Sri Lanka
+431,3,Pahala Millawa,6.293995,80.475431,Southern,Sri Lanka
+432,3,Panangala,6.274182,80.334525,Southern,Sri Lanka
+433,3,Pannimulla Panagoda,6.36,80.3653,Southern,Sri Lanka
+434,3,Parana ThanaYamgoda,6.2167,80.3,Southern,Sri Lanka
+435,3,Patana,6.1333,80.1167,Southern,Sri Lanka
+436,3,Pitigala,6.348894,80.217851,Southern,Sri Lanka
+437,3,Poddala,6.1167,80.2167,Southern,Sri Lanka
+438,3,Polgampola,6.3244,80.4383,Southern,Sri Lanka
+439,3,Porawagama,6.279568,80.231811,Southern,Sri Lanka
+440,3,Rantotuwila,6.3833,80.0833,Southern,Sri Lanka
+441,3,Talagampola,6.0667,80.3,Southern,Sri Lanka
+442,3,Talgaspe,6.3,80.2,Southern,Sri Lanka
+443,3,Talpe,6.0061,80.2961,Southern,Sri Lanka
+444,3,Tawalama,6.3333,80.3333,Southern,Sri Lanka
+445,3,Tiranagama,6.1333,80.1167,Southern,Sri Lanka
+446,3,Udalamatta,6.18924,80.306106,Southern,Sri Lanka
+447,3,Udugama,6.188469,80.338951,Southern,Sri Lanka
+448,3,Uluvitike,6.3056,80.309,Southern,Sri Lanka
+449,3,Unawatuna,6.0169,80.249901,Southern,Sri Lanka
+450,3,Unenwitiya,6.2417,80.225,Southern,Sri Lanka
+451,3,Uragaha,6.35,80.1167,Southern,Sri Lanka
+452,3,Uragasmanhandiya,6.358461,80.082277,Southern,Sri Lanka
+453,3,Wakwella,6.1,80.1833,Southern,Sri Lanka
+454,3,Walahanduwa,6.05443,80.251763,Southern,Sri Lanka
+455,3,Wanchawela,6.0333,80.3167,Southern,Sri Lanka
+456,3,Wanduramba,6.136388,80.252794,Southern,Sri Lanka
+457,3,Warukandeniya,6.381574,80.43131,Southern,Sri Lanka
+458,3,Watugedara,6.25,80.05,Southern,Sri Lanka
+459,3,Weihena,6.310127,80.23392,Southern,Sri Lanka
+460,3,Welikanda,6.3167,80.0333,Southern,Sri Lanka
+461,3,Wilanagama,6.4167,80,Southern,Sri Lanka
+462,3,Yakkalamulla,6.109027,80.349195,Southern,Sri Lanka
+463,3,Yatalamatta,6.172247,80.293052,Southern,Sri Lanka
+591,3,Ambalantota,6.114494,81.025983,Southern,Sri Lanka
+592,3,Angunakolapelessa,6.162261,80.899471,Southern,Sri Lanka
+593,3,Angunakolawewa,6.389127,81.093226,Southern,Sri Lanka
+594,3,Bandagiriya Colony,6.1833,81.1389,Southern,Sri Lanka
+595,3,Barawakumbuka,6.1667,80.8167,Southern,Sri Lanka
+596,3,Beliatta,6.048637,80.734343,Southern,Sri Lanka
+597,3,Beragama,6.15,81.0667,Southern,Sri Lanka
+598,3,Beralihela,6.2556,81.2944,Southern,Sri Lanka
+599,3,Bundala,6.195164,81.250493,Southern,Sri Lanka
+600,3,Ellagala,6.26867,81.359512,Southern,Sri Lanka
+601,3,Gangulandeniya,6.2833,80.7167,Southern,Sri Lanka
+602,3,Getamanna,6.036244,80.669146,Southern,Sri Lanka
+603,3,Goda Koggalla,6.0333,80.75,Southern,Sri Lanka
+604,3,Gonagamuwa Uduwila,6.25,81.2917,Southern,Sri Lanka
+605,3,Gonnoruwa,6.230443,81.112465,Southern,Sri Lanka
+606,3,Hakuruwela,6.146456,80.83047,Southern,Sri Lanka
+607,3,Hambantota,6.127563,81.111287,Southern,Sri Lanka
+608,3,Handugala,6.188877,80.62414,Southern,Sri Lanka
+609,3,Hungama,6.108006,80.927144,Southern,Sri Lanka
+610,3,Ihala Beligalla,6.092378,80.747311,Southern,Sri Lanka
+611,3,Ittademaliya,6.167432,80.735179,Southern,Sri Lanka
+612,3,Julampitiya,6.2261,80.7403,Southern,Sri Lanka
+613,3,Kahandamodara,6.078654,80.902917,Southern,Sri Lanka
+614,3,Kariyamaditta,6.257359,80.809448,Southern,Sri Lanka
+615,3,Katuwana,6.2667,80.6972,Southern,Sri Lanka
+616,3,Kawantissapura,6.2786,81.2524,Southern,Sri Lanka
+617,3,Kirama,6.2117,80.6653,Southern,Sri Lanka
+618,3,Kirinda,6.268985,81.290653,Southern,Sri Lanka
+619,3,Lunama,6.098517,80.971511,Southern,Sri Lanka
+620,3,Lunugamwehera,6.3417,81.15,Southern,Sri Lanka
+621,3,Magama,6.280108,81.270354,Southern,Sri Lanka
+622,3,Mahagalwewa,6.1833,81.1389,Southern,Sri Lanka
+623,3,Mamadala,6.158126,80.96681,Southern,Sri Lanka
+624,3,Medamulana,6.175878,80.770016,Southern,Sri Lanka
+625,3,Middeniya,6.2494,80.7672,Southern,Sri Lanka
+626,3,Migahajandur,6.1833,81.1389,Southern,Sri Lanka
+627,3,Modarawana,6.117576,80.720781,Southern,Sri Lanka
+628,3,Mulkirigala,6.12,80.7397,Southern,Sri Lanka
+629,3,Nakulugamuwa,6.1842,80.9063,Southern,Sri Lanka
+630,3,Netolpitiya,6.066848,80.850703,Southern,Sri Lanka
+631,3,Nihiluwa,6.077147,80.696499,Southern,Sri Lanka
+632,3,Padawkema,6.35,81.1667,Southern,Sri Lanka
+633,3,Pahala Andarawewa,6.1833,81.1389,Southern,Sri Lanka
+634,3,Rammalawarapitiya,6.2117,80.6653,Southern,Sri Lanka
+635,3,Ranakeliya,6.2167,81.3,Southern,Sri Lanka
+636,3,Ranmuduwewa,6.1833,81.1389,Southern,Sri Lanka
+637,3,Ranna,6.103377,80.890168,Southern,Sri Lanka
+638,3,Ratmalwala,6.2667,80.85,Southern,Sri Lanka
+639,3,RU/Ridiyagama,6.1375,81.0042,Southern,Sri Lanka
+640,3,Sooriyawewa Town,6.1833,81.1389,Southern,Sri Lanka
+641,3,Tangalla,6.0231,80.7889,Southern,Sri Lanka
+642,3,Tissamaharama,6.370333,81.328087,Southern,Sri Lanka
+643,3,Uda Gomadiya,6.2667,80.6972,Southern,Sri Lanka
+644,3,Udamattala,6.3333,81.1333,Southern,Sri Lanka
+645,3,Uswewa,6.246247,80.862175,Southern,Sri Lanka
+646,3,Vitharandeniya,6.1824,80.806,Southern,Sri Lanka
+647,3,Walasmulla,6.15,80.7,Southern,Sri Lanka
+648,3,Weeraketiya,6.135,80.7865,Southern,Sri Lanka
+649,3,Weerawila,6.3417,81.15,Southern,Sri Lanka
+650,3,Weerawila NewTown,6.2556,81.2944,Southern,Sri Lanka
+651,3,Wekandawela,6.135,80.7865,Southern,Sri Lanka
+652,3,Weligatta,6.205897,81.196032,Southern,Sri Lanka
+653,3,Yatigala,6.1,80.6833,Southern,Sri Lanka
+1364,3,Akuressa,6.0964,80.4808,Southern,Sri Lanka
+1365,3,Alapaladeniya,6.2833,80.45,Southern,Sri Lanka
+1366,3,Aparekka,6.008083,80.621556,Southern,Sri Lanka
+1367,3,Athuraliya,6.069724,80.497879,Southern,Sri Lanka
+1368,3,Bengamuwa,6.253417,80.59808,Southern,Sri Lanka
+1369,3,Bopagoda,6.1561,80.4903,Southern,Sri Lanka
+1370,3,Dampahala,6.259631,80.633081,Southern,Sri Lanka
+1371,3,Deegala Lenama,6.2333,80.45,Southern,Sri Lanka
+1372,3,Deiyandara,6.152388,80.604696,Southern,Sri Lanka
+1373,3,Denagama,6.11481,80.642749,Southern,Sri Lanka
+1374,3,Denipitiya,5.9667,80.45,Southern,Sri Lanka
+1375,3,Deniyaya,6.339732,80.548055,Southern,Sri Lanka
+1376,3,Derangala,6.229572,80.445492,Southern,Sri Lanka
+1377,3,Devinuwara Dondra,5.9319,80.6069,Southern,Sri Lanka
+1378,3,Dikwella,5.9667,80.6833,Southern,Sri Lanka
+1379,3,Diyagaha,5.9833,80.5667,Southern,Sri Lanka
+1380,3,Diyalape,6.121802,80.447911,Southern,Sri Lanka
+1381,3,Gandara,5.933629,80.61575,Southern,Sri Lanka
+1382,3,Godapitiya,6.121801,80.480996,Southern,Sri Lanka
+1383,3,Gomilamawarala,6.1833,80.5667,Southern,Sri Lanka
+1384,3,Hawpe,6.129973,80.489743,Southern,Sri Lanka
+1385,3,Horapawita,6.1167,80.5833,Southern,Sri Lanka
+1386,3,Kalubowitiyana,6.3167,80.4,Southern,Sri Lanka
+1387,3,Kamburugamuwa,5.940612,80.496449,Southern,Sri Lanka
+1388,3,Kamburupitiya,6.069847,80.56473,Southern,Sri Lanka
+1389,3,Karagoda Uyangoda,6.0715,80.5193,Southern,Sri Lanka
+1390,3,Karaputugala,6.07377,80.603484,Southern,Sri Lanka
+1391,3,Karatota,6.0667,80.6667,Southern,Sri Lanka
+1392,3,Kekanadurra,6.0715,80.5193,Southern,Sri Lanka
+1393,3,Kiriweldola,6.372272,80.533507,Southern,Sri Lanka
+1394,3,Kiriwelkele,6.249957,80.451047,Southern,Sri Lanka
+1395,3,Kolawenigama,6.321671,80.500227,Southern,Sri Lanka
+1396,3,Kotapola,6.292393,80.533957,Southern,Sri Lanka
+1397,3,Lankagama,6.35,80.4667,Southern,Sri Lanka
+1398,3,Makandura,6.137036,80.571982,Southern,Sri Lanka
+1399,3,Maliduwa,6.1333,80.4167,Southern,Sri Lanka
+1400,3,Maramba,6.1614,80.5035,Southern,Sri Lanka
+1401,3,Matara,5.9486,80.5428,Southern,Sri Lanka
+1402,3,Mediripitiya,6.35,80.4667,Southern,Sri Lanka
+1403,3,Miella,6.1167,80.6833,Southern,Sri Lanka
+1404,3,Mirissa,5.94679,80.452288,Southern,Sri Lanka
+1405,3,Morawaka,6.25,80.4833,Southern,Sri Lanka
+1406,3,Mulatiyana Junction,6.1833,80.5667,Southern,Sri Lanka
+1407,3,Nadugala,5.975464,80.548935,Southern,Sri Lanka
+1408,3,Naimana,6.0715,80.5193,Southern,Sri Lanka
+1409,3,Palatuwa,5.984516,80.518656,Southern,Sri Lanka
+1410,3,Parapamulla,6.150219,80.61675,Southern,Sri Lanka
+1411,3,Pasgoda,6.242998,80.616175,Southern,Sri Lanka
+1412,3,Penetiyana,6.034813,80.450626,Southern,Sri Lanka
+1413,3,Pitabeddara,6.2167,80.45,Southern,Sri Lanka
+1414,3,Puhulwella,6.045752,80.619203,Southern,Sri Lanka
+1415,3,Radawela,6.124672,80.60726,Southern,Sri Lanka
+1416,3,Ransegoda,6.0715,80.5193,Southern,Sri Lanka
+1417,3,Rotumba,6.229142,80.571151,Southern,Sri Lanka
+1418,3,Sultanagoda,5.9667,80.5,Southern,Sri Lanka
+1419,3,Telijjawila,6.0715,80.5193,Southern,Sri Lanka
+1420,3,Thihagoda,6.011602,80.561851,Southern,Sri Lanka
+1421,3,Urubokka,6.302863,80.631175,Southern,Sri Lanka
+1422,3,Urugamuwa,6.0116,80.6437,Southern,Sri Lanka
+1423,3,Urumutta,6.150181,80.519582,Southern,Sri Lanka
+1424,3,Viharahena,6.379073,80.598006,Southern,Sri Lanka
+1425,3,Walakanda,6.01655,80.649889,Southern,Sri Lanka
+1426,3,Walasgala,5.981913,80.693678,Southern,Sri Lanka
+1427,3,Waralla,6.277439,80.522519,Southern,Sri Lanka
+1428,3,Weligama,5.9667,80.4167,Southern,Sri Lanka
+1429,3,Wilpita,6.1,80.5167,Southern,Sri Lanka
+1430,3,Yatiyana,6.028888,80.603158,Southern,Sri Lanka
+1032,4,Akurana,7.637034,80.023362,North Western,Sri Lanka
+1033,4,Alahengama,7.6779,80.1151,North Western,Sri Lanka
+1034,4,Alahitiyawa,7.473913,80.171211,North Western,Sri Lanka
+1035,4,Ambakote,7.492063,80.452844,North Western,Sri Lanka
+1036,4,Ambanpola,7.915973,80.237512,North Western,Sri Lanka
+1037,4,Andiyagala,7.4667,80.1333,North Western,Sri Lanka
+1038,4,Anukkane,7.501814,80.120028,North Western,Sri Lanka
+1039,4,Aragoda,7.366116,80.344207,North Western,Sri Lanka
+1040,4,Ataragalla,7.9696,80.2768,North Western,Sri Lanka
+1041,4,Awulegama,7.6569,80.2203,North Western,Sri Lanka
+1042,4,Balalla,7.791025,80.250762,North Western,Sri Lanka
+1043,4,Bamunukotuwa,7.8667,80.2167,North Western,Sri Lanka
+1044,4,Bandara Koswatta,7.603296,80.17257,North Western,Sri Lanka
+1045,4,Bingiriya,7.605177,79.921996,North Western,Sri Lanka
+1046,4,Bogamulla,7.4589,80.2107,North Western,Sri Lanka
+1047,4,Boraluwewa,7.682578,80.034757,North Western,Sri Lanka
+1048,4,Boyagane,7.452272,80.341672,North Western,Sri Lanka
+1049,4,Bujjomuwa,7.4581,80.0603,North Western,Sri Lanka
+1050,4,Buluwala,7.484201,80.473535,North Western,Sri Lanka
+1051,4,Dadayamtalawa,7.65,79.9667,North Western,Sri Lanka
+1052,4,Dambadeniya,7.370527,80.146193,North Western,Sri Lanka
+1053,4,Daraluwa,7.359407,79.978233,North Western,Sri Lanka
+1054,4,Deegalla,7.510205,80.029797,North Western,Sri Lanka
+1055,4,Demataluwa,7.513976,80.258741,North Western,Sri Lanka
+1056,4,Demuwatha,7.35,80.1667,North Western,Sri Lanka
+1057,4,Diddeniya,7.685279,80.47286,North Western,Sri Lanka
+1058,4,Digannewa,7.897218,80.101328,North Western,Sri Lanka
+1059,4,Divullegoda,7.75,80.2,North Western,Sri Lanka
+1060,4,Diyasenpura,7.8167,80.1833,North Western,Sri Lanka
+1061,4,Dodangaslanda,7.5667,80.5333,North Western,Sri Lanka
+1062,4,Doluwa,7.621516,80.418833,North Western,Sri Lanka
+1063,4,Doragamuwa,7.5833,79.9333,North Western,Sri Lanka
+1064,4,Doratiyawa,7.450628,80.380562,North Western,Sri Lanka
+1065,4,Dunumadalawa,7.8,80.0833,North Western,Sri Lanka
+1066,4,Dunuwilapitiya,7.3667,80.2,North Western,Sri Lanka
+1067,4,Ehetuwewa,7.927568,80.332035,North Western,Sri Lanka
+1068,4,Elibichchiya,7.313179,80.056935,North Western,Sri Lanka
+1069,4,Embogama,7.9214,80.3608,North Western,Sri Lanka
+1070,4,Etungahakotuwa,7.5167,79.9667,North Western,Sri Lanka
+1071,4,Galadivulwewa,7.8,80.0833,North Western,Sri Lanka
+1072,4,Galgamuwa,7.995468,80.267527,North Western,Sri Lanka
+1073,4,Gallellagama,7.3,80.15,North Western,Sri Lanka
+1074,4,Gallewa,7.9667,80.3333,North Western,Sri Lanka
+1075,4,Ganegoda,7.5833,80,North Western,Sri Lanka
+1076,4,Girathalana,7.9833,80.3833,North Western,Sri Lanka
+1077,4,Gokaralla,7.6301,80.3775,North Western,Sri Lanka
+1078,4,Gonawila,7.3167,80,North Western,Sri Lanka
+1079,4,Halmillawewa,7.5953,79.9972,North Western,Sri Lanka
+1080,4,Handungamuwa,7.3667,80.2,North Western,Sri Lanka
+1081,4,Harankahawa,7.3,80.15,North Western,Sri Lanka
+1082,4,Helamada,7.3167,80.2833,North Western,Sri Lanka
+1083,4,Hengamuwa,7.703282,80.111254,North Western,Sri Lanka
+1084,4,Hettipola,7.605372,80.083137,North Western,Sri Lanka
+1085,4,Hewainna,7.3333,80.2167,North Western,Sri Lanka
+1086,4,Hilogama,7.75,80.0833,North Western,Sri Lanka
+1087,4,Hindagolla,7.4833,80.4167,North Western,Sri Lanka
+1088,4,Hiriyala Lenawa,7.6709,80.4751,North Western,Sri Lanka
+1089,4,Hiruwalpola,7.553915,79.924699,North Western,Sri Lanka
+1090,4,Horambawa,7.45,80.1833,North Western,Sri Lanka
+1091,4,Hulogedara,7.7833,80.1833,North Western,Sri Lanka
+1092,4,Hulugalla,7.79059,80.140007,North Western,Sri Lanka
+1093,4,Ihala Gomugomuwa,7.5167,80.0833,North Western,Sri Lanka
+1094,4,Ihala Katugampala,7.3672,80.1467,North Western,Sri Lanka
+1095,4,Indulgodakanda,7.422625,80.402808,North Western,Sri Lanka
+1096,4,Ithanawatta,7.4458,80.3458,North Western,Sri Lanka
+1097,4,Kadigawa,7.7167,80,North Western,Sri Lanka
+1098,4,Kalankuttiya,8.05,80.3833,North Western,Sri Lanka
+1099,4,Kalatuwawa,7.6333,80.3667,North Western,Sri Lanka
+1100,4,Kalugamuwa,7.449717,80.256696,North Western,Sri Lanka
+1101,4,Kanadeniyawala,7.43824,80.535658,North Western,Sri Lanka
+1102,4,Kanattewewa,7.6167,80.2,North Western,Sri Lanka
+1103,4,Kandegedara,7.424611,80.071498,North Western,Sri Lanka
+1104,4,Karagahagedara,7.475787,80.209967,North Western,Sri Lanka
+1105,4,Karambe,7.805937,80.339167,North Western,Sri Lanka
+1106,4,Katiyawa,7.624637,80.553944,North Western,Sri Lanka
+1107,4,Katupota,7.5331,80.1897,North Western,Sri Lanka
+1108,4,Kawudulla,7.75,80.3833,North Western,Sri Lanka
+1109,4,Kawuduluwewa Stagell,7.8167,80.1833,North Western,Sri Lanka
+1110,4,Kekunagolla,7.49608,80.170446,North Western,Sri Lanka
+1111,4,Keppitiwalana,7.323203,80.190441,North Western,Sri Lanka
+1112,4,Kimbulwanaoya,7.6709,80.4751,North Western,Sri Lanka
+1113,4,Kirimetiyawa,7.5247,80.1408,North Western,Sri Lanka
+1114,4,Kirindawa,7.502078,80.096123,North Western,Sri Lanka
+1115,4,Kirindigalla,7.554314,80.475005,North Western,Sri Lanka
+1116,4,Kithalawa,7.4816,80.1615,North Western,Sri Lanka
+1117,4,Kitulwala,7.5,80.5333,North Western,Sri Lanka
+1118,4,Kobeigane,7.656731,80.120999,North Western,Sri Lanka
+1119,4,Kohilagedara,7.4167,80.3667,North Western,Sri Lanka
+1120,4,Konwewa,7.8,80.0667,North Western,Sri Lanka
+1121,4,Kosdeniya,7.574081,80.138826,North Western,Sri Lanka
+1122,4,Kosgolla,7.4,80.3833,North Western,Sri Lanka
+1123,4,Kotagala,7.45,80.2333,North Western,Sri Lanka
+1125,4,Kotawehera,7.7911,80.1023,North Western,Sri Lanka
+1126,4,Kudagalgamuwa,7.558498,80.340333,North Western,Sri Lanka
+1127,4,Kudakatnoruwa,7.9833,80.3833,North Western,Sri Lanka
+1128,4,Kuliyapitiya,7.469551,80.04873,North Western,Sri Lanka
+1129,4,Kumaragama,7.75,80.3833,North Western,Sri Lanka
+1130,4,Kumbukgeta,7.675,80.3667,North Western,Sri Lanka
+1131,4,Kumbukwewa,7.797468,80.217857,North Western,Sri Lanka
+1132,4,Kuratihena,7.6,80.1333,North Western,Sri Lanka
+1133,4,Kurunegala,7.4867,80.3647,North Western,Sri Lanka
+1134,4,lbbagamuwa,7.675,80.3667,North Western,Sri Lanka
+1135,4,lhala Kadigamuwa,7.5436,79.9819,North Western,Sri Lanka
+1136,4,Lihiriyagama,7.3447,79.9425,North Western,Sri Lanka
+1137,4,lllagolla,7.4333,80.1333,North Western,Sri Lanka
+1138,4,llukhena,7.5436,79.9819,North Western,Sri Lanka
+1139,4,Lonahettiya,7.4589,80.2107,North Western,Sri Lanka
+1140,4,Madahapola,7.711952,80.499003,North Western,Sri Lanka
+1141,4,Madakumburumulla,7.44599,79.994062,North Western,Sri Lanka
+1142,4,Madalagama,7.353398,80.314033,North Western,Sri Lanka
+1143,4,Madawala Ulpotha,7.703,80.5051,North Western,Sri Lanka
+1144,4,Maduragoda,7.5667,80.5333,North Western,Sri Lanka
+1145,4,Maeliya,7.734847,80.4079,North Western,Sri Lanka
+1146,4,Magulagama,7.542895,80.090321,North Western,Sri Lanka
+1147,4,Maha Ambagaswewa,7.8167,80.1833,North Western,Sri Lanka
+1148,4,Mahagalkadawala,8.062861,80.28052,North Western,Sri Lanka
+1149,4,Mahagirilla,7.8333,80.1333,North Western,Sri Lanka
+1150,4,Mahamukalanyaya,7.7417,80.4318,North Western,Sri Lanka
+1151,4,Mahananneriya,8.013545,80.183367,North Western,Sri Lanka
+1152,4,Mahapallegama,7.366,80.0918,North Western,Sri Lanka
+1153,4,Maharachchimulla,7.335989,80.212673,North Western,Sri Lanka
+1154,4,Mahatalakolawewa,7.8167,80.1833,North Western,Sri Lanka
+1155,4,Mahawewa,7.5167,79.9167,North Western,Sri Lanka
+1156,4,Maho,7.8228,80.2778,North Western,Sri Lanka
+1157,4,Makulewa,7.998315,80.345072,North Western,Sri Lanka
+1158,4,Makulpotha,7.751748,80.43986,North Western,Sri Lanka
+1159,4,Makulwewa,7.6333,80.05,North Western,Sri Lanka
+1160,4,Malagane,7.65,80.2667,North Western,Sri Lanka
+1161,4,Mandapola,7.63521,80.108641,North Western,Sri Lanka
+1162,4,Maspotha,7.8667,80.2167,North Western,Sri Lanka
+1163,4,Mawathagama,7.409691,80.315775,North Western,Sri Lanka
+1164,4,Medirigiriya,7.8167,80.1833,North Western,Sri Lanka
+1165,4,Medivawa,7.7678,80.2858,North Western,Sri Lanka
+1166,4,Meegalawa,7.9833,80.3833,North Western,Sri Lanka
+1167,4,Meegaswewa,7.8167,80.1833,North Western,Sri Lanka
+1168,4,Meewellawa,7.85,80.15,North Western,Sri Lanka
+1169,4,Melsiripura,7.65,80.5,North Western,Sri Lanka
+1170,4,Metikumbura,7.3615,80.3177,North Western,Sri Lanka
+1171,4,Metiyagane,7.390854,80.180612,North Western,Sri Lanka
+1172,4,Minhettiya,7.581261,80.307757,North Western,Sri Lanka
+1173,4,Minuwangete,7.7167,80.25,North Western,Sri Lanka
+1174,4,Mirihanagama,7.6542,80.2583,North Western,Sri Lanka
+1175,4,Monnekulama,7.824042,80.060587,North Western,Sri Lanka
+1176,4,Moragane,7.547791,80.130329,North Western,Sri Lanka
+1177,4,Moragollagama,7.6333,80.2167,North Western,Sri Lanka
+1178,4,Morathiha,7.510701,80.488428,North Western,Sri Lanka
+1179,4,Munamaldeniya,7.55,80.0667,North Western,Sri Lanka
+1180,4,Muruthenge,7.3942,80.1861,North Western,Sri Lanka
+1181,4,Mutugala,7.3667,80.1667,North Western,Sri Lanka
+1182,4,Nabadewa,7.6833,80.0667,North Western,Sri Lanka
+1183,4,Nagollagama,7.752013,80.309254,North Western,Sri Lanka
+1184,4,Nagollagoda,7.563335,80.037807,North Western,Sri Lanka
+1185,4,Nakkawatta,7.448259,80.141879,North Western,Sri Lanka
+1186,4,Narammala,7.431387,80.206159,North Western,Sri Lanka
+1187,4,Nawasenapura,7.3667,80.1667,North Western,Sri Lanka
+1188,4,Nawatalwatta,7.4581,80.0603,North Western,Sri Lanka
+1189,4,Nelliya,7.690523,80.457947,North Western,Sri Lanka
+1190,4,Nikaweratiya,7.747585,80.115201,North Western,Sri Lanka
+1191,4,Nugagolla,7.3667,80.2,North Western,Sri Lanka
+1192,4,Nugawela,7.329999,80.220383,North Western,Sri Lanka
+1193,4,Padeniya,7.648348,80.222132,North Western,Sri Lanka
+1194,4,Padiwela,7.545547,79.9905,North Western,Sri Lanka
+1195,4,Pahalagiribawa,8.0833,80.2111,North Western,Sri Lanka
+1196,4,Pahamune,7.4833,80.2,North Western,Sri Lanka
+1197,4,Palagala,7.4667,80.1333,North Western,Sri Lanka
+1198,4,Palapathwela,7.9,80.2,North Western,Sri Lanka
+1199,4,Palaviya,7.5785,79.9098,North Western,Sri Lanka
+1200,4,Pallewela,7.4667,79.9833,North Western,Sri Lanka
+1201,4,Palukadawala,7.947895,80.279058,North Western,Sri Lanka
+1202,4,Panadaragama,7.8667,80.2167,North Western,Sri Lanka
+1203,4,Panagamuwa,7.55,80.4667,North Western,Sri Lanka
+1204,4,Panaliya,7.328059,80.331852,North Western,Sri Lanka
+1205,4,Panapitiya,7.4167,80.1833,North Western,Sri Lanka
+1206,4,Panliyadda,7.7061,80.4964,North Western,Sri Lanka
+1207,4,Pansiyagama,7.7061,80.4964,North Western,Sri Lanka
+1208,4,Parape,7.3667,80.4167,North Western,Sri Lanka
+1209,4,Pathanewatta,7.4167,80.0833,North Western,Sri Lanka
+1210,4,Pattiya Watta,7.3833,80.3167,North Western,Sri Lanka
+1211,4,Perakanatta,7.3667,80.2,North Western,Sri Lanka
+1212,4,Periyakadneluwa,7.7417,80.4318,North Western,Sri Lanka
+1213,4,Pihimbiya Ratmale,7.6299,80.0953,North Western,Sri Lanka
+1214,4,Pihimbuwa,7.460742,80.512294,North Western,Sri Lanka
+1215,4,Pilessa,7.45,80.4167,North Western,Sri Lanka
+1216,4,Polgahawela,7.332765,80.295285,North Western,Sri Lanka
+1217,4,Polgolla,7.4167,80.5333,North Western,Sri Lanka
+1218,4,Polpitigama,7.8142,80.4042,North Western,Sri Lanka
+1219,4,Pothuhera,7.4181,80.3317,North Western,Sri Lanka
+1220,4,Pothupitiya,7.35542,80.17166,North Western,Sri Lanka
+1221,4,Pujapitiya,7.3833,80.3167,North Western,Sri Lanka
+1222,4,Rakwana,7.9,80.4,North Western,Sri Lanka
+1223,4,Ranorawa,7.8,80.0833,North Western,Sri Lanka
+1224,4,Rathukohodigala,7.5833,79.9333,North Western,Sri Lanka
+1225,4,Ridibendiella,7.802,80.287,North Western,Sri Lanka
+1226,4,Ridigama,7.55,80.4833,North Western,Sri Lanka
+1227,4,Saliya Asokapura,8.0833,80.2111,North Western,Sri Lanka
+1228,4,Sandalankawa,7.304619,79.944358,North Western,Sri Lanka
+1229,4,Sevanapitiya,7.3667,80.1667,North Western,Sri Lanka
+1230,4,Sirambiadiya,8.1,80.2667,North Western,Sri Lanka
+1231,4,Sirisetagama,7.7772,80.1506,North Western,Sri Lanka
+1232,4,Siyambalangamuwa,7.529179,80.340311,North Western,Sri Lanka
+1233,4,Siyambalawewa,7.65,79.9667,North Western,Sri Lanka
+1234,4,Solepura,8.153657,80.153384,North Western,Sri Lanka
+1235,4,Solewewa,8.145855,80.132596,North Western,Sri Lanka
+1236,4,Sunandapura,7.6299,80.0953,North Western,Sri Lanka
+1237,4,Talawattegedara,7.3833,80.3,North Western,Sri Lanka
+1238,4,Tambutta,8.0833,80.2167,North Western,Sri Lanka
+1239,4,Tennepanguwa,7.4167,80.0833,North Western,Sri Lanka
+1240,4,Thalahitimulla,7.432473,80.001954,North Western,Sri Lanka
+1241,4,Thalakolawewa,7.796943,80.433851,North Western,Sri Lanka
+1242,4,Thalwita,7.5943,80.2108,North Western,Sri Lanka
+1243,4,Tharana Udawela,7.5333,80.0667,North Western,Sri Lanka
+1244,4,Thimbiriyawa,7.750904,80.140975,North Western,Sri Lanka
+1245,4,Tisogama,7.6065,79.9406,North Western,Sri Lanka
+1246,4,Torayaya,7.5167,80.4,North Western,Sri Lanka
+1247,4,Tulhiriya,7.2833,80.2167,North Western,Sri Lanka
+1248,4,Tuntota,7.5,79.9167,North Western,Sri Lanka
+1249,4,Tuttiripitigama,7.6,80.1333,North Western,Sri Lanka
+1250,4,Udagaldeniya,7.3583,80.35,North Western,Sri Lanka
+1251,4,Udahingulwala,7.3,80.15,North Western,Sri Lanka
+1252,4,Udawatta,7.4333,80.1333,North Western,Sri Lanka
+1253,4,Udubaddawa,7.4828,79.9753,North Western,Sri Lanka
+1254,4,Udumulla,7.45,80.4,North Western,Sri Lanka
+1255,4,Uhumiya,7.4667,80.2833,North Western,Sri Lanka
+1256,4,Ulpotha Pallekele,7.8071,80.4188,North Western,Sri Lanka
+1257,4,Ulpothagama,7.7167,80.3167,North Western,Sri Lanka
+1258,4,Usgala Siyabmalangamuwa,8.0833,80.2111,North Western,Sri Lanka
+1259,4,Vijithapura,7.4667,80.1333,North Western,Sri Lanka
+1260,4,Wadakada,7.39697,80.267596,North Western,Sri Lanka
+1261,4,Wadumunnegedara,7.4167,79.9667,North Western,Sri Lanka
+1262,4,Walakumburumulla,7.4167,80.0167,North Western,Sri Lanka
+1263,4,Wannigama,7.6569,80.2203,North Western,Sri Lanka
+1264,4,Wannikudawewa,7.9977,80.2964,North Western,Sri Lanka
+1265,4,Wannilhalagama,7.9977,80.2964,North Western,Sri Lanka
+1266,4,Wannirasnayakapura,7.6889,80.1556,North Western,Sri Lanka
+1267,4,Warawewa,8.121572,80.14855,North Western,Sri Lanka
+1268,4,Wariyapola,7.628694,80.235989,North Western,Sri Lanka
+1269,4,Watareka,7.397142,80.432878,North Western,Sri Lanka
+1270,4,Wattegama,7.5833,79.9333,North Western,Sri Lanka
+1271,4,Watuwatta,7.5167,79.9167,North Western,Sri Lanka
+1272,4,Weerapokuna,7.649426,79.981893,North Western,Sri Lanka
+1273,4,Welawa Juncton,7.6569,80.2203,North Western,Sri Lanka
+1274,4,Welipennagahamulla,7.4581,80.0603,North Western,Sri Lanka
+1275,4,Wellagala,7.6167,80.2833,North Western,Sri Lanka
+1276,4,Wellarawa,7.5729,79.913974,North Western,Sri Lanka
+1277,4,Wellawa,7.566524,80.369189,North Western,Sri Lanka
+1278,4,Welpalla,7.4333,80.05,North Western,Sri Lanka
+1279,4,Wennoruwa,7.369467,80.219573,North Western,Sri Lanka
+1280,4,Weuda,7.4,80.1667,North Western,Sri Lanka
+1281,4,Wewagama,7.42031,80.099835,North Western,Sri Lanka
+1282,4,Wilgamuwa,7.3667,80.2,North Western,Sri Lanka
+1283,4,Yakwila,7.3833,80.0333,North Western,Sri Lanka
+1284,4,Yatigaloluwa,7.328729,80.264509,North Western,Sri Lanka
+1587,4,Adippala,7.5833,79.8417,North Western,Sri Lanka
+1588,4,Alutgama,7.7667,79.9333,North Western,Sri Lanka
+1589,4,Alutwewa,7.8667,79.95,North Western,Sri Lanka
+1590,4,Ambakandawila,7.5333,79.8,North Western,Sri Lanka
+1591,4,Anamaduwa,7.881625,80.00353,North Western,Sri Lanka
+1592,4,Andigama,7.7775,79.9528,North Western,Sri Lanka
+1593,4,Angunawila,7.7667,79.85,North Western,Sri Lanka
+1594,4,Attawilluwa,7.4167,79.8833,North Western,Sri Lanka
+1595,4,Bangadeniya,7.619471,79.809055,North Western,Sri Lanka
+1596,4,Baranankattuwa,7.803253,79.872624,North Western,Sri Lanka
+1597,4,Battuluoya,7.734655,79.817455,North Western,Sri Lanka
+1598,4,Bujjampola,7.3333,79.9,North Western,Sri Lanka
+1599,4,Chilaw,7.5758,79.7953,North Western,Sri Lanka
+1600,4,Dalukana,7.3167,79.85,North Western,Sri Lanka
+1601,4,Dankotuwa,7.300443,79.88505,North Western,Sri Lanka
+1602,4,Dewagala,7.3167,79.85,North Western,Sri Lanka
+1603,4,Dummalasuriya,7.4833,79.9,North Western,Sri Lanka
+1604,4,Dunkannawa,7.4167,79.9,North Western,Sri Lanka
+1605,4,Eluwankulama,8.332832,79.859928,North Western,Sri Lanka
+1606,4,Ettale,8.097416,79.717306,North Western,Sri Lanka
+1607,4,Galamuna,7.464661,79.872371,North Western,Sri Lanka
+1608,4,Galmuruwa,7.501718,79.895774,North Western,Sri Lanka
+1609,4,Hansayapalama,7.3167,79.85,North Western,Sri Lanka
+1610,4,Ihala Kottaramulla,7.383069,79.871755,North Western,Sri Lanka
+1611,4,Ilippadeniya,7.567036,79.826233,North Western,Sri Lanka
+1612,4,Inginimitiya,7.964099,80.112055,North Western,Sri Lanka
+1613,4,Ismailpuram,8.0333,79.8167,North Western,Sri Lanka
+1614,4,Jayasiripura,7.6333,79.8167,North Western,Sri Lanka
+1615,4,Kakkapalliya,7.5333,79.8267,North Western,Sri Lanka
+1616,4,Kalkudah,8.1167,79.7167,North Western,Sri Lanka
+1617,4,Kalladiya,7.95,79.9333,North Western,Sri Lanka
+1618,4,Kandakuliya,7.98,79.9569,North Western,Sri Lanka
+1619,4,Karathivu,8.192511,79.832662,North Western,Sri Lanka
+1620,4,Karawitagara,7.572417,79.86173,North Western,Sri Lanka
+1621,4,Karuwalagaswewa,8.037625,79.94267,North Western,Sri Lanka
+1622,4,Katuneriya,7.3667,79.8333,North Western,Sri Lanka
+1623,4,Koswatta,7.3667,79.9,North Western,Sri Lanka
+1624,4,Kottantivu,7.85,79.7833,North Western,Sri Lanka
+1625,4,Kottapitiya,7.63568,79.815394,North Western,Sri Lanka
+1626,4,Kottukachchiya,7.938617,79.954577,North Western,Sri Lanka
+1627,4,Kumarakattuwa,7.661964,79.886873,North Western,Sri Lanka
+1628,4,Kurinjanpitiya,7.98,79.9569,North Western,Sri Lanka
+1629,4,Kuruketiyawa,8.0167,80.05,North Western,Sri Lanka
+1630,4,Lunuwila,7.350819,79.85725,North Western,Sri Lanka
+1631,4,Madampe,7.5,79.8333,North Western,Sri Lanka
+1632,4,Madurankuliya,7.896391,79.836449,North Western,Sri Lanka
+1633,4,Mahakumbukkadawala,7.85,79.9,North Western,Sri Lanka
+1634,4,Mahauswewa,7.9575,80.0683,North Western,Sri Lanka
+1635,4,Mampitiya,7.3167,79.85,North Western,Sri Lanka
+1636,4,Mampuri,7.9964,79.7411,North Western,Sri Lanka
+1637,4,Mangalaeliya,7.775,79.85,North Western,Sri Lanka
+1638,4,Marawila,7.4094,79.8322,North Western,Sri Lanka
+1639,4,Mudalakkuliya,7.799533,79.977428,North Western,Sri Lanka
+1640,4,Mugunuwatawana,7.58487,79.854684,North Western,Sri Lanka
+1641,4,Mukkutoduwawa,7.928236,79.75648,North Western,Sri Lanka
+1642,4,Mundel,7.7958,79.8283,North Western,Sri Lanka
+1643,4,Muttibendiwila,7.45,79.8833,North Western,Sri Lanka
+1644,4,Nainamadama,7.3714,79.8837,North Western,Sri Lanka
+1645,4,Nalladarankattuwa,7.689152,79.844243,North Western,Sri Lanka
+1646,4,Nattandiya,7.4086,79.8683,North Western,Sri Lanka
+1647,4,Nawagattegama,8,80.1167,North Western,Sri Lanka
+1648,4,Nelumwewa,7.3167,79.85,North Western,Sri Lanka
+1649,4,Norachcholai,7.9964,79.7411,North Western,Sri Lanka
+1650,4,Pallama,7.681225,79.918239,North Western,Sri Lanka
+1651,4,Palliwasalturai,7.98,79.9569,North Western,Sri Lanka
+1652,4,Panirendawa,7.542426,79.886377,North Western,Sri Lanka
+1653,4,Parakramasamudraya,7.8667,79.95,North Western,Sri Lanka
+1654,4,Pothuwatawana,7.4833,79.9,North Western,Sri Lanka
+1655,4,Puttalam,8.043613,79.841209,North Western,Sri Lanka
+1656,4,Puttalam Cement Factory,7.4167,79.8833,North Western,Sri Lanka
+1657,4,Rajakadaluwa,7.650515,79.828283,North Western,Sri Lanka
+1658,4,Saliyawewa Junction,7.4167,79.8833,North Western,Sri Lanka
+1659,4,Serukele,7.7333,79.9167,North Western,Sri Lanka
+1660,4,Siyambalagashene,7.8239,79.978,North Western,Sri Lanka
+1661,4,Tabbowa,7.4167,79.8833,North Western,Sri Lanka
+1662,4,Talawila Church,7.9964,79.7411,North Western,Sri Lanka
+1663,4,Toduwawa,7.4861,79.8022,North Western,Sri Lanka
+1664,4,Udappuwa,7.5758,79.7953,North Western,Sri Lanka
+1665,4,Uridyawa,7.8239,79.978,North Western,Sri Lanka
+1666,4,Vanathawilluwa,8.17001,79.8461,North Western,Sri Lanka
+1667,4,Waikkal,7.2833,79.85,North Western,Sri Lanka
+1668,4,Watugahamulla,7.4667,79.9,North Western,Sri Lanka
+1669,4,Wennappuwa,7.35048,79.850112,North Western,Sri Lanka
+1670,4,Wijeyakatupotha,7.5758,79.7953,North Western,Sri Lanka
+1671,4,Wilpotha,7.5758,79.7953,North Western,Sri Lanka
+1672,4,Yodaela,7.5833,79.8667,North Western,Sri Lanka
+1673,4,Yogiyana,7.286035,79.924213,North Western,Sri Lanka
+901,5,Alawala,7.197379,80.282779,Sabaragamuwa,Sri Lanka
+902,5,Alawatura,7.1333,80.3333,Sabaragamuwa,Sri Lanka
+903,5,Alawwa,7.2875,80.2536,Sabaragamuwa,Sri Lanka
+904,5,Algama,7.158338,80.162939,Sabaragamuwa,Sri Lanka
+905,5,Alutnuwara,7.2333,80.4667,Sabaragamuwa,Sri Lanka
+906,5,Ambalakanda,7.134049,80.446804,Sabaragamuwa,Sri Lanka
+907,5,Ambulugala,7.239127,80.409623,Sabaragamuwa,Sri Lanka
+908,5,Amitirigala,7.0306,80.1839,Sabaragamuwa,Sri Lanka
+909,5,Ampagala,7.080239,80.289037,Sabaragamuwa,Sri Lanka
+910,5,Anhandiya,7.2667,80.2667,Sabaragamuwa,Sri Lanka
+911,5,Anhettigama,6.922121,80.371876,Sabaragamuwa,Sri Lanka
+912,5,Aranayaka,7.144705,80.461358,Sabaragamuwa,Sri Lanka
+913,5,Aruggammana,7.117733,80.306712,Sabaragamuwa,Sri Lanka
+914,5,Batuwita,7.044339,80.179129,Sabaragamuwa,Sri Lanka
+915,5,BeligalaSab,7.2167,80.2917,Sabaragamuwa,Sri Lanka
+916,5,Belihuloya,7.2667,80.2167,Sabaragamuwa,Sri Lanka
+917,5,Berannawa,7.064482,80.405526,Sabaragamuwa,Sri Lanka
+918,5,Bopitiya,7.179761,80.205221,Sabaragamuwa,Sri Lanka
+919,5,Bopitiya,7.2583,80.2167,Sabaragamuwa,Sri Lanka
+920,5,Boralankada,6.979656,80.330338,Sabaragamuwa,Sri Lanka
+921,5,Bossella,7.1333,80.4,Sabaragamuwa,Sri Lanka
+922,5,Bulathkohupitiya,7.105994,80.338761,Sabaragamuwa,Sri Lanka
+923,5,Damunupola,7.187968,80.334456,Sabaragamuwa,Sri Lanka
+924,5,Debathgama,7.1833,80.3583,Sabaragamuwa,Sri Lanka
+925,5,Dedugala,7.093849,80.418959,Sabaragamuwa,Sri Lanka
+926,5,Deewala Pallegama,7.2333,80.2667,Sabaragamuwa,Sri Lanka
+927,5,Dehiowita,6.9706,80.2675,Sabaragamuwa,Sri Lanka
+928,5,Deldeniya,7.280914,80.35876,Sabaragamuwa,Sri Lanka
+929,5,Deloluwa,6.9653,80.3181,Sabaragamuwa,Sri Lanka
+930,5,Deraniyagala,6.932387,80.335039,Sabaragamuwa,Sri Lanka
+931,5,Dewalegama,7.278928,80.319135,Sabaragamuwa,Sri Lanka
+932,5,Dewanagala,7.2167,80.4667,Sabaragamuwa,Sri Lanka
+933,5,Dombemada,7.37974,80.348761,Sabaragamuwa,Sri Lanka
+934,5,Dorawaka,7.1833,80.2167,Sabaragamuwa,Sri Lanka
+935,5,Dunumala,7.1738,80.2074,Sabaragamuwa,Sri Lanka
+936,5,Galapitamada,7.14,80.2364,Sabaragamuwa,Sri Lanka
+937,5,Galatara,7.2167,80.4167,Sabaragamuwa,Sri Lanka
+938,5,Galigamuwa Town,7.2,80.3,Sabaragamuwa,Sri Lanka
+939,5,Gallella,6.85,80.35,Sabaragamuwa,Sri Lanka
+940,5,Galpatha Sab,7.05,80.2333,Sabaragamuwa,Sri Lanka
+941,5,Gantuna,7.1667,80.3667,Sabaragamuwa,Sri Lanka
+942,5,Getahetta,6.9128,80.2358,Sabaragamuwa,Sri Lanka
+943,5,Godagampola,6.885959,80.313855,Sabaragamuwa,Sri Lanka
+944,5,Gonagala,7.035326,80.207373,Sabaragamuwa,Sri Lanka
+945,5,Hakahinna,7.2,80.3,Sabaragamuwa,Sri Lanka
+946,5,Hakbellawaka,7.003952,80.328796,Sabaragamuwa,Sri Lanka
+947,5,Halloluwa,7.2,80.35,Sabaragamuwa,Sri Lanka
+948,5,Hedunuwewa,6.9306,80.2747,Sabaragamuwa,Sri Lanka
+949,5,Hemmatagama,7.1667,80.5,Sabaragamuwa,Sri Lanka
+950,5,Hewadiwela,7.372493,80.377574,Sabaragamuwa,Sri Lanka
+951,5,Hingula,7.247803,80.469032,Sabaragamuwa,Sri Lanka
+952,5,Hinguralakanda,6.91506,80.304394,Sabaragamuwa,Sri Lanka
+953,5,Hingurana,6.9167,80.4167,Sabaragamuwa,Sri Lanka
+954,5,Hiriwadunna,7.2833,80.3833,Sabaragamuwa,Sri Lanka
+955,5,Ihala Walpola,7.350958,80.397324,Sabaragamuwa,Sri Lanka
+956,5,Ihalagama,7.2667,80.3333,Sabaragamuwa,Sri Lanka
+957,5,Imbulana,7.08264,80.245565,Sabaragamuwa,Sri Lanka
+958,5,Imbulgasdeniya,7.2853,80.3186,Sabaragamuwa,Sri Lanka
+959,5,Kabagamuwa,7.136698,80.341558,Sabaragamuwa,Sri Lanka
+960,5,Kahapathwala,7.3,80.4583,Sabaragamuwa,Sri Lanka
+961,5,Kandaketya,7.2333,80.4667,Sabaragamuwa,Sri Lanka
+962,5,Kannattota,7.081348,80.275311,Sabaragamuwa,Sri Lanka
+963,5,Karagahinna,7.3604,80.3832,Sabaragamuwa,Sri Lanka
+964,5,Kegalle,7.249349,80.351662,Sabaragamuwa,Sri Lanka
+965,5,Kehelpannala,7.161131,80.519539,Sabaragamuwa,Sri Lanka
+966,5,Ketawala Leula,7.1167,80.35,Sabaragamuwa,Sri Lanka
+967,5,Kitulgala,6.9944,80.4114,Sabaragamuwa,Sri Lanka
+968,5,Kondeniya,7.2667,80.4333,Sabaragamuwa,Sri Lanka
+969,5,Kotiyakumbura,7.0833,80.2667,Sabaragamuwa,Sri Lanka
+970,5,Lewangama,7.112902,80.239,Sabaragamuwa,Sri Lanka
+971,5,Mahabage,7.019803,80.450227,Sabaragamuwa,Sri Lanka
+972,5,Makehelwala,7.282441,80.47528,Sabaragamuwa,Sri Lanka
+973,5,Malalpola,7.053091,80.351009,Sabaragamuwa,Sri Lanka
+974,5,Maldeniya,6.9306,80.2747,Sabaragamuwa,Sri Lanka
+975,5,Maliboda,6.887528,80.464212,Sabaragamuwa,Sri Lanka
+976,5,Maliyadda,7.2333,80.4667,Sabaragamuwa,Sri Lanka
+977,5,Malmaduwa,7.15,80.2833,Sabaragamuwa,Sri Lanka
+978,5,Marapana,7.2333,80.35,Sabaragamuwa,Sri Lanka
+979,5,Mawanella,7.244446,80.439045,Sabaragamuwa,Sri Lanka
+980,5,Meetanwala,7.3,80.4583,Sabaragamuwa,Sri Lanka
+981,5,Migastenna Sabara,7.0333,80.3333,Sabaragamuwa,Sri Lanka
+982,5,Miyanawita,6.900423,80.351075,Sabaragamuwa,Sri Lanka
+983,5,Molagoda,7.25,80.3833,Sabaragamuwa,Sri Lanka
+984,5,Morontota,7.1667,80.3667,Sabaragamuwa,Sri Lanka
+985,5,Narangala,7.07922,80.360764,Sabaragamuwa,Sri Lanka
+986,5,Narangoda,7.198165,80.294552,Sabaragamuwa,Sri Lanka
+987,5,Nattarampotha,7.1167,80.35,Sabaragamuwa,Sri Lanka
+988,5,Nelundeniya,7.2319,80.2669,Sabaragamuwa,Sri Lanka
+989,5,Niyadurupola,7.1667,80.2167,Sabaragamuwa,Sri Lanka
+990,5,Noori,6.9508,80.3174,Sabaragamuwa,Sri Lanka
+991,5,Pannila,6.866357,80.320996,Sabaragamuwa,Sri Lanka
+992,5,Pattampitiya,7.315516,80.434412,Sabaragamuwa,Sri Lanka
+993,5,Pilawala,7.1167,80.35,Sabaragamuwa,Sri Lanka
+994,5,Pothukoladeniya,7.1833,80.3583,Sabaragamuwa,Sri Lanka
+995,5,Puswelitenna,7.3667,80.3667,Sabaragamuwa,Sri Lanka
+996,5,Rambukkana,7.323016,80.391856,Sabaragamuwa,Sri Lanka
+997,5,Rilpola,7.2333,80.4667,Sabaragamuwa,Sri Lanka
+998,5,Rukmale,7.2,80.4833,Sabaragamuwa,Sri Lanka
+999,5,Ruwanwella,7.048852,80.2561,Sabaragamuwa,Sri Lanka
+1000,5,Samanalawewa,7.2667,80.2167,Sabaragamuwa,Sri Lanka
+1001,5,Seaforth Colony,7.0469,80.3502,Sabaragamuwa,Sri Lanka
+1003,5,Spring Valley,7.2333,80.4667,Sabaragamuwa,Sri Lanka
+1004,5,Talgaspitiya,7.1667,80.4833,Sabaragamuwa,Sri Lanka
+1005,5,Teligama,7.0033,80.3647,Sabaragamuwa,Sri Lanka
+1006,5,Tholangamuwa,7.233983,80.225956,Sabaragamuwa,Sri Lanka
+1007,5,Thotawella,7.3555,80.3969,Sabaragamuwa,Sri Lanka
+1008,5,Udaha Hawupe,7.05,80.2833,Sabaragamuwa,Sri Lanka
+1009,5,Udapotha,7.09414,80.377416,Sabaragamuwa,Sri Lanka
+1010,5,Uduwa,7.110957,80.387557,Sabaragamuwa,Sri Lanka
+1011,5,Undugoda,7.141866,80.365332,Sabaragamuwa,Sri Lanka
+1012,5,Ussapitiya,7.216957,80.444573,Sabaragamuwa,Sri Lanka
+1013,5,Wahakula,7.058236,80.207402,Sabaragamuwa,Sri Lanka
+1014,5,Waharaka,7.088513,80.198619,Sabaragamuwa,Sri Lanka
+1015,5,Wanaluwewa,7.0667,80.175,Sabaragamuwa,Sri Lanka
+1016,5,Warakapola,7.230053,80.196768,Sabaragamuwa,Sri Lanka
+1017,5,Watura,7.1833,80.3833,Sabaragamuwa,Sri Lanka
+1018,5,Weeoya,7.0469,80.3502,Sabaragamuwa,Sri Lanka
+1019,5,Wegalla,7.099631,80.30654,Sabaragamuwa,Sri Lanka
+1020,5,Weligalla,7.1833,80.2,Sabaragamuwa,Sri Lanka
+1021,5,Welihelatenna,7.0333,80.3333,Sabaragamuwa,Sri Lanka
+1022,5,Wewelwatta,6.85,80.35,Sabaragamuwa,Sri Lanka
+1023,5,Yatagama,7.32512,80.356415,Sabaragamuwa,Sri Lanka
+1024,5,Yatapana,7.1333,80.3,Sabaragamuwa,Sri Lanka
+1025,5,Yatiyantota,7.0242,80.3006,Sabaragamuwa,Sri Lanka
+1026,5,Yattogoda,7.2333,80.2667,Sabaragamuwa,Sri Lanka
+1674,5,Akarella,6.59053,80.644197,Sabaragamuwa,Sri Lanka
+1675,5,Amunumulla,6.7333,80.75,Sabaragamuwa,Sri Lanka
+1676,5,Atakalanpanna,6.5333,80.6,Sabaragamuwa,Sri Lanka
+1677,5,Ayagama,6.63662,80.317329,Sabaragamuwa,Sri Lanka
+1678,5,Balangoda,6.661743,80.69371,Sabaragamuwa,Sri Lanka
+1679,5,Batatota,6.8333,80.3667,Sabaragamuwa,Sri Lanka
+1680,5,Beralapanathara,6.4521,80.4894,Sabaragamuwa,Sri Lanka
+1681,5,Bogahakumbura,6.6833,80.7667,Sabaragamuwa,Sri Lanka
+1682,5,Bolthumbe,6.739114,80.664956,Sabaragamuwa,Sri Lanka
+1683,5,Bomluwageaina,6.4,80.6333,Sabaragamuwa,Sri Lanka
+1684,5,Bowalagama,6.3917,80.6833,Sabaragamuwa,Sri Lanka
+1685,5,Bulutota,6.4333,80.65,Sabaragamuwa,Sri Lanka
+1686,5,Dambuluwana,6.7167,80.3333,Sabaragamuwa,Sri Lanka
+1687,5,Daugala,6.4901,80.4248,Sabaragamuwa,Sri Lanka
+1688,5,Dela,6.6258,80.4486,Sabaragamuwa,Sri Lanka
+1689,5,Delwala,6.513055,80.473993,Sabaragamuwa,Sri Lanka
+1690,5,Dodampe,6.73603,80.301105,Sabaragamuwa,Sri Lanka
+1691,5,Doloswalakanda,6.55133,80.470258,Sabaragamuwa,Sri Lanka
+1692,5,Dumbara Manana,6.680322,80.247485,Sabaragamuwa,Sri Lanka
+1693,5,Eheliyagoda,6.85,80.2667,Sabaragamuwa,Sri Lanka
+1694,5,Ekamutugama,6.3406,80.7804,Sabaragamuwa,Sri Lanka
+1695,5,Elapatha,6.66081,80.366828,Sabaragamuwa,Sri Lanka
+1696,5,Ellagawa,6.5687,80.363,Sabaragamuwa,Sri Lanka
+1697,5,Ellaulla,6.8583,80.3083,Sabaragamuwa,Sri Lanka
+1698,5,Ellawala,6.809945,80.259547,Sabaragamuwa,Sri Lanka
+1699,5,Embilipitiya,6.3439,80.8489,Sabaragamuwa,Sri Lanka
+1700,5,Eratna,6.7986,80.3784,Sabaragamuwa,Sri Lanka
+1701,5,Erepola,6.804277,80.242773,Sabaragamuwa,Sri Lanka
+1702,5,Gabbela,6.7167,80.35,Sabaragamuwa,Sri Lanka
+1703,5,Gangeyaya,6.7516,80.5927,Sabaragamuwa,Sri Lanka
+1704,5,Gawaragiriya,6.6422,80.2667,Sabaragamuwa,Sri Lanka
+1705,5,Gillimale,6.729,80.4415,Sabaragamuwa,Sri Lanka
+1706,5,Godakawela,6.505599,80.647268,Sabaragamuwa,Sri Lanka
+1707,5,Gurubewilagama,6.7,80.5667,Sabaragamuwa,Sri Lanka
+1708,5,Halwinna,6.6833,80.7167,Sabaragamuwa,Sri Lanka
+1709,5,Handagiriya,6.562839,80.780347,Sabaragamuwa,Sri Lanka
+1710,5,Hatangala,6.532527,80.739407,Sabaragamuwa,Sri Lanka
+1711,5,Hatarabage,6.65,80.75,Sabaragamuwa,Sri Lanka
+1712,5,Hewanakumbura,6.6833,80.7667,Sabaragamuwa,Sri Lanka
+1713,5,Hidellana,6.7192,80.3842,Sabaragamuwa,Sri Lanka
+1714,5,Hiramadagama,6.533544,80.60045,Sabaragamuwa,Sri Lanka
+1715,5,Horewelagoda,6.3917,80.6833,Sabaragamuwa,Sri Lanka
+1716,5,Ittakanda,6.403532,80.636458,Sabaragamuwa,Sri Lanka
+1717,5,Kahangama,6.704217,80.362927,Sabaragamuwa,Sri Lanka
+1718,5,Kahawatta,6.708145,80.303805,Sabaragamuwa,Sri Lanka
+1719,5,Kalawana,6.531595,80.407285,Sabaragamuwa,Sri Lanka
+1720,5,Kaltota,6.6833,80.6833,Sabaragamuwa,Sri Lanka
+1721,5,Kalubululanda,6.6833,80.7667,Sabaragamuwa,Sri Lanka
+1722,5,Kananke Bazaar,6.7361,80.4354,Sabaragamuwa,Sri Lanka
+1723,5,Kandepuhulpola,6.6833,80.7667,Sabaragamuwa,Sri Lanka
+1724,5,Karandana,6.77254,80.206883,Sabaragamuwa,Sri Lanka
+1725,5,Karangoda,6.677224,80.368723,Sabaragamuwa,Sri Lanka
+1726,5,Kella Junction,6.4,80.6833,Sabaragamuwa,Sri Lanka
+1727,5,Keppetipola,6.6833,80.7667,Sabaragamuwa,Sri Lanka
+1728,5,Kiriella,6.753583,80.265838,Sabaragamuwa,Sri Lanka
+1729,5,Kiriibbanwewa,6.3406,80.7804,Sabaragamuwa,Sri Lanka
+1730,5,Kolambageara,6.7516,80.5927,Sabaragamuwa,Sri Lanka
+1731,5,Kolombugama,6.5667,80.4833,Sabaragamuwa,Sri Lanka
+1732,5,Kolonna,6.404095,80.681552,Sabaragamuwa,Sri Lanka
+1733,5,Kudawa,6.757336,80.504485,Sabaragamuwa,Sri Lanka
+1734,5,Kuruwita,6.7792,80.3686,Sabaragamuwa,Sri Lanka
+1735,5,Lellopitiya,6.655172,80.471348,Sabaragamuwa,Sri Lanka
+1736,5,lmaduwa,6.7361,80.4354,Sabaragamuwa,Sri Lanka
+1737,5,lmbulpe,6.7159,80.6375,Sabaragamuwa,Sri Lanka
+1738,5,Mahagama Colony,6.3406,80.7804,Sabaragamuwa,Sri Lanka
+1739,5,Mahawalatenna,6.5833,80.75,Sabaragamuwa,Sri Lanka
+1740,5,Makandura Sabara,6.5333,80.6,Sabaragamuwa,Sri Lanka
+1741,5,Malwala Junction,6.7,80.4333,Sabaragamuwa,Sri Lanka
+1742,5,Malwatta,6.65,80.4167,Sabaragamuwa,Sri Lanka
+1743,5,Matuwagalagama,6.7667,80.2333,Sabaragamuwa,Sri Lanka
+1744,5,Medagalatur,6.6414,80.2882,Sabaragamuwa,Sri Lanka
+1745,5,Meddekanda,6.6833,80.6833,Sabaragamuwa,Sri Lanka
+1746,5,Minipura Dumbara,6.5687,80.363,Sabaragamuwa,Sri Lanka
+1747,5,Mitipola,6.836923,80.221949,Sabaragamuwa,Sri Lanka
+1748,5,Moragala Kirillapone,6.8333,80.3,Sabaragamuwa,Sri Lanka
+1749,5,Morahela,6.679967,80.691531,Sabaragamuwa,Sri Lanka
+1750,5,Mulendiyawala,6.291657,80.760239,Sabaragamuwa,Sri Lanka
+1751,5,Mulgama,6.645942,80.817832,Sabaragamuwa,Sri Lanka
+1752,5,Nawalakanda,6.5167,80.3333,Sabaragamuwa,Sri Lanka
+1753,5,NawinnaPinnakanda,6.7168,80.4999,Sabaragamuwa,Sri Lanka
+1754,5,Niralagama,6.65,80.3667,Sabaragamuwa,Sri Lanka
+1755,5,Nivitigala,6.6,80.4553,Sabaragamuwa,Sri Lanka
+1756,5,Omalpe,6.327391,80.694691,Sabaragamuwa,Sri Lanka
+1757,5,Opanayaka,6.608359,80.625134,Sabaragamuwa,Sri Lanka
+1758,5,Padalangala,6.244961,80.916029,Sabaragamuwa,Sri Lanka
+1759,5,Pallebedda,6.45,80.7333,Sabaragamuwa,Sri Lanka
+1760,5,Pallekanda,6.6333,80.6667,Sabaragamuwa,Sri Lanka
+1761,5,Pambagolla,6.7333,80.6833,Sabaragamuwa,Sri Lanka
+1762,5,Panamura,6.351417,80.776404,Sabaragamuwa,Sri Lanka
+1763,5,Panapola,6.425337,80.445421,Sabaragamuwa,Sri Lanka
+1764,5,Paragala,6.601317,80.343575,Sabaragamuwa,Sri Lanka
+1765,5,Parakaduwa,6.825482,80.299049,Sabaragamuwa,Sri Lanka
+1766,5,Pebotuwa,6.540192,80.452191,Sabaragamuwa,Sri Lanka
+1767,5,Pelmadulla,6.620071,80.542243,Sabaragamuwa,Sri Lanka
+1768,5,Pinnawala,6.731251,80.672146,Sabaragamuwa,Sri Lanka
+1769,5,Pothdeniya,6.8333,80.3,Sabaragamuwa,Sri Lanka
+1770,5,Rajawaka,6.609347,80.797987,Sabaragamuwa,Sri Lanka
+1771,5,Ranwala,6.553121,80.665495,Sabaragamuwa,Sri Lanka
+1772,5,Rassagala,6.695227,80.617304,Sabaragamuwa,Sri Lanka
+1773,5,Ratgama,6.7333,80.4833,Sabaragamuwa,Sri Lanka
+1774,5,Ratna Hangamuwa,6.65,80.3667,Sabaragamuwa,Sri Lanka
+1775,5,Ratnapura,6.677603,80.405592,Sabaragamuwa,Sri Lanka
+1776,5,Sewanagala,6.3406,80.7804,Sabaragamuwa,Sri Lanka
+1777,5,Sri Palabaddala,6.800198,80.476202,Sabaragamuwa,Sri Lanka
+1778,5,Sudagala,6.7833,80.4,Sabaragamuwa,Sri Lanka
+1779,5,Talakolahinna,6.5844,80.7332,Sabaragamuwa,Sri Lanka
+1780,5,Tanjantenna,6.6361,80.8536,Sabaragamuwa,Sri Lanka
+1781,5,Teppanawa,6.75,80.3167,Sabaragamuwa,Sri Lanka
+1782,5,Tunkama,6.2833,80.8833,Sabaragamuwa,Sri Lanka
+1783,5,Udakarawita,6.7317,80.4287,Sabaragamuwa,Sri Lanka
+1784,5,Udaniriella,6.65,80.3667,Sabaragamuwa,Sri Lanka
+1785,5,Udawalawe,6.7516,80.5927,Sabaragamuwa,Sri Lanka
+1786,5,Ullinduwawa,6.367322,80.631196,Sabaragamuwa,Sri Lanka
+1787,5,Veddagala,6.45,80.4333,Sabaragamuwa,Sri Lanka
+1788,5,Vijeriya,6.4,80.6333,Sabaragamuwa,Sri Lanka
+1789,5,Waleboda,6.726367,80.64106,Sabaragamuwa,Sri Lanka
+1790,5,Watapotha,6.577958,80.510709,Sabaragamuwa,Sri Lanka
+1791,5,Waturawa,6.4833,80.4333,Sabaragamuwa,Sri Lanka
+1792,5,Weligepola,6.567212,80.707078,Sabaragamuwa,Sri Lanka
+1793,5,Welipathayaya,6.6833,80.6833,Sabaragamuwa,Sri Lanka
+1794,5,Wikiliya,6.6203,80.7467,Sabaragamuwa,Sri Lanka
+1,6,Akkaraipattu,7.2167,81.85,Eastern,Sri Lanka
+2,6,Ambagahawatta,7.4,81.3,Eastern,Sri Lanka
+3,6,Ampara,7.2833,81.6667,Eastern,Sri Lanka
+4,6,Bakmitiyawa,7.026268,81.633832,Eastern,Sri Lanka
+5,6,Deegawapiya,7.2833,81.6667,Eastern,Sri Lanka
+6,6,Devalahinda,7.1889,81.5778,Eastern,Sri Lanka
+7,6,Digamadulla Weeragoda,7.2833,81.6667,Eastern,Sri Lanka
+8,6,Dorakumbura,7.358849,81.280133,Eastern,Sri Lanka
+9,6,Gonagolla,7.449853,81.618014,Eastern,Sri Lanka
+10,6,Hulannuge,7.4,81.3,Eastern,Sri Lanka
+11,6,Kalmunai,7.413897,81.826718,Eastern,Sri Lanka
+12,6,Kannakipuram,7.2167,81.85,Eastern,Sri Lanka
+13,6,Karativu,7.3833,81.8333,Eastern,Sri Lanka
+14,6,Kekirihena,7.490724,81.310836,Eastern,Sri Lanka
+15,6,Koknahara,7.184832,81.555806,Eastern,Sri Lanka
+16,6,Kolamanthalawa,7.351733,81.249913,Eastern,Sri Lanka
+17,6,Komari,6.976958,81.78883,Eastern,Sri Lanka
+18,6,Lahugala,7.415566,81.33954,Eastern,Sri Lanka
+19,6,lmkkamam,7.1125,81.8542,Eastern,Sri Lanka
+20,6,Mahaoya,7.535248,81.351145,Eastern,Sri Lanka
+21,6,Marathamune,7.45,81.8167,Eastern,Sri Lanka
+22,6,Namaloya,7.1889,81.5778,Eastern,Sri Lanka
+23,6,Navithanveli,7.4333,81.7833,Eastern,Sri Lanka
+24,6,Nintavur,7.35,81.85,Eastern,Sri Lanka
+25,6,Oluvil,7.2833,81.85,Eastern,Sri Lanka
+26,6,Padiyatalawa,7.4,81.2333,Eastern,Sri Lanka
+27,6,Pahalalanda,7.21752,81.578714,Eastern,Sri Lanka
+28,6,Panama,6.812201,81.712237,Eastern,Sri Lanka
+29,6,Pannalagama,7.0667,81.6167,Eastern,Sri Lanka
+30,6,Paragahakele,7.25669,81.609526,Eastern,Sri Lanka
+31,6,Periyaneelavanai,7.434002,81.814169,Eastern,Sri Lanka
+32,6,Polwaga Janapadaya,7.1889,81.5778,Eastern,Sri Lanka
+33,6,Pottuvil,6.8667,81.8333,Eastern,Sri Lanka
+34,6,Sainthamaruthu,7.3833,81.8333,Eastern,Sri Lanka
+35,6,Samanthurai,7.3833,81.8333,Eastern,Sri Lanka
+36,6,Serankada,7.464517,81.263599,Eastern,Sri Lanka
+37,6,Tempitiya,7.610374,81.429907,Eastern,Sri Lanka
+38,6,Thambiluvil,7.132227,81.819074,Eastern,Sri Lanka
+39,6,Tirukovil,7.1167,81.85,Eastern,Sri Lanka
+40,6,Uhana,7.363281,81.637746,Eastern,Sri Lanka
+41,6,Wadinagala,7.127849,81.56922,Eastern,Sri Lanka
+42,6,Wanagamuwa,7.1125,81.8542,Eastern,Sri Lanka
+287,6,Addalaichenai,7.4833,81.75,Eastern,Sri Lanka
+288,6,Ampilanthurai,7.8597,81.4411,Eastern,Sri Lanka
+289,6,Araipattai,7.667705,81.725335,Eastern,Sri Lanka
+290,6,Ayithiyamalai,7.670934,81.574798,Eastern,Sri Lanka
+291,6,Bakiella,7.5083,81.7583,Eastern,Sri Lanka
+292,6,Batticaloa,7.7167,81.7,Eastern,Sri Lanka
+293,6,Cheddipalayam,7.575161,81.783189,Eastern,Sri Lanka
+294,6,Chenkaladi,7.7833,81.6,Eastern,Sri Lanka
+295,6,Eravur,7.768518,81.619817,Eastern,Sri Lanka
+296,6,Kaluwanchikudi,7.5167,81.7833,Eastern,Sri Lanka
+297,6,Kaluwankemy,7.8,81.5667,Eastern,Sri Lanka
+298,6,Kannankudah,7.675505,81.674125,Eastern,Sri Lanka
+299,6,Karadiyanaru,7.689478,81.531117,Eastern,Sri Lanka
+300,6,Kathiraveli,8.243933,81.360298,Eastern,Sri Lanka
+301,6,Kattankudi,7.675,81.73,Eastern,Sri Lanka
+302,6,Kiran,7.866841,81.529737,Eastern,Sri Lanka
+303,6,Kirankulam,7.615628,81.764245,Eastern,Sri Lanka
+304,6,Koddaikallar,7.6389,81.6639,Eastern,Sri Lanka
+305,6,Kokkaddichcholai,7.8597,81.4411,Eastern,Sri Lanka
+306,6,Kurukkalmadam,7.594069,81.77497,Eastern,Sri Lanka
+307,6,Mandur,7.482114,81.762407,Eastern,Sri Lanka
+308,6,Miravodai,7.9,81.5167,Eastern,Sri Lanka
+309,6,Murakottanchanai,7.8667,81.5333,Eastern,Sri Lanka
+310,6,Navagirinagar,7.525,81.725,Eastern,Sri Lanka
+311,6,Navatkadu,7.5833,81.7167,Eastern,Sri Lanka
+312,6,Oddamavadi,7.9167,81.5167,Eastern,Sri Lanka
+313,6,Palamunai,7.4833,81.75,Eastern,Sri Lanka
+314,6,Pankudavely,7.75,81.5667,Eastern,Sri Lanka
+315,6,Periyaporativu,7.536243,81.764557,Eastern,Sri Lanka
+316,6,Periyapullumalai,7.561255,81.47434,Eastern,Sri Lanka
+317,6,Pillaiyaradi,7.75,81.6333,Eastern,Sri Lanka
+318,6,Punanai,7.9667,81.3833,Eastern,Sri Lanka
+319,6,Thannamunai,7.76355,81.645852,Eastern,Sri Lanka
+320,6,Thettativu,7.5833,81.7833,Eastern,Sri Lanka
+321,6,Thikkodai,7.525269,81.684177,Eastern,Sri Lanka
+322,6,Thirupalugamam,7.525,81.725,Eastern,Sri Lanka
+323,6,Unnichchai,7.6167,81.55,Eastern,Sri Lanka
+324,6,Vakaneri,7.9167,81.4333,Eastern,Sri Lanka
+325,6,Vakarai,8.165968,81.415623,Eastern,Sri Lanka
+326,6,Valaichenai,7.7,81.6,Eastern,Sri Lanka
+327,6,Vantharumoolai,7.807445,81.591476,Eastern,Sri Lanka
+328,6,Vellavely,7.5,81.7333,Eastern,Sri Lanka
+1795,6,Agbopura,8.330575,80.97191,Eastern,Sri Lanka
+1796,6,Buckmigama,8.6667,80.95,Eastern,Sri Lanka
+1797,6,China Bay,8.561664,81.187386,Eastern,Sri Lanka
+1798,6,Dehiwatte,8.4458,81.2875,Eastern,Sri Lanka
+1799,6,Echchilampattai,8.4458,81.2875,Eastern,Sri Lanka
+1800,6,Galmetiyawa,8.3683,81.0281,Eastern,Sri Lanka
+1801,6,Gomarankadawala,8.677731,80.960417,Eastern,Sri Lanka
+1802,6,Kaddaiparichchan,8.459198,81.278164,Eastern,Sri Lanka
+1803,6,Kallar,8.2833,81.2667,Eastern,Sri Lanka
+1804,6,Kanniya,8.6333,81.0167,Eastern,Sri Lanka
+1805,6,Kantalai,8.365483,80.966897,Eastern,Sri Lanka
+1806,6,Kantalai Sugar Factory,8.3683,81.0281,Eastern,Sri Lanka
+1807,6,Kiliveddy,8.354092,81.275605,Eastern,Sri Lanka
+1808,6,Kinniya,8.497717,81.179214,Eastern,Sri Lanka
+1809,6,Kuchchaveli,8.792709,81.036113,Eastern,Sri Lanka
+1810,6,Kumburupiddy,8.7333,81.15,Eastern,Sri Lanka
+1811,6,Kurinchakemy,8.4989,81.1897,Eastern,Sri Lanka
+1812,6,Lankapatuna,8.4458,81.2875,Eastern,Sri Lanka
+1813,6,Mahadivulwewa,8.613863,80.9518,Eastern,Sri Lanka
+1814,6,Maharugiramam,8.4989,81.1897,Eastern,Sri Lanka
+1815,6,Mallikativu,8.4458,81.2875,Eastern,Sri Lanka
+1816,6,Mawadichenai,8.4458,81.2875,Eastern,Sri Lanka
+1817,6,Mullipothana,8.3683,81.0281,Eastern,Sri Lanka
+1818,6,Mutur,8.45,81.2667,Eastern,Sri Lanka
+1819,6,Neelapola,8.4458,81.2875,Eastern,Sri Lanka
+1820,6,Nilaveli,8.658756,81.148516,Eastern,Sri Lanka
+1821,6,Pankulam,8.6333,81.0167,Eastern,Sri Lanka
+1822,6,Pulmoddai,8.9333,80.9833,Eastern,Sri Lanka
+1823,6,Rottawewa,8.6333,81.0167,Eastern,Sri Lanka
+1824,6,Sampaltivu,8.6167,81.2,Eastern,Sri Lanka
+1825,6,Sampoor,8.493354,81.284828,Eastern,Sri Lanka
+1826,6,Serunuwara,8.4458,81.2875,Eastern,Sri Lanka
+1827,6,Seruwila,8.4458,81.2875,Eastern,Sri Lanka
+1828,6,Sirajnagar,8.3683,81.0281,Eastern,Sri Lanka
+1829,6,Somapura,8.4458,81.2875,Eastern,Sri Lanka
+1830,6,Tampalakamam,8.4925,81.0964,Eastern,Sri Lanka
+1831,6,Thuraineelavanai,8.2833,81.2667,Eastern,Sri Lanka
+1832,6,Tiriyayi,8.7444,81.15,Eastern,Sri Lanka
+1833,6,Toppur,8.4,81.3167,Eastern,Sri Lanka
+1834,6,Trincomalee,8.5667,81.2333,Eastern,Sri Lanka
+1835,6,Wanela,8.3683,81.0281,Eastern,Sri Lanka
+173,7,Akkarasiyaya,6.7792,80.9208,Uva,Sri Lanka
+174,7,Aluketiyawa,7.317155,81.127134,Uva,Sri Lanka
+175,7,Aluttaramma,7.2167,81.0667,Uva,Sri Lanka
+176,7,Ambadandegama,6.81591,81.056492,Uva,Sri Lanka
+177,7,Ambagasdowa,6.928519,80.892126,Uva,Sri Lanka
+178,7,Arawa,7.162769,81.07755,Uva,Sri Lanka
+179,7,Arawakumbura,7.084925,81.198802,Uva,Sri Lanka
+180,7,Arawatta,7.328715,81.036976,Uva,Sri Lanka
+181,7,Atakiriya,7.0667,81.1056,Uva,Sri Lanka
+182,7,Badulla,6.995365,81.048438,Uva,Sri Lanka
+183,7,Baduluoya,7.151852,81.023867,Uva,Sri Lanka
+184,7,Ballaketuwa,6.862905,81.097249,Uva,Sri Lanka
+185,7,Bambarapana,7.1167,81.0375,Uva,Sri Lanka
+186,7,Bandarawela,6.828867,80.990898,Uva,Sri Lanka
+187,7,Beramada,7.055713,80.987238,Uva,Sri Lanka
+188,7,Bibilegama,6.887473,81.141268,Uva,Sri Lanka
+189,7,Boragas,6.901625,80.840162,Uva,Sri Lanka
+190,7,Boralanda,6.828637,80.881603,Uva,Sri Lanka
+191,7,Bowela,6.95,80.9333,Uva,Sri Lanka
+192,7,Central Camp,7.3589,81.1759,Uva,Sri Lanka
+193,7,Damanewela,7.2125,81.0583,Uva,Sri Lanka
+194,7,Dambana,7.3583,81.1083,Uva,Sri Lanka
+195,7,Dehiattakandiya,7.2125,81.0583,Uva,Sri Lanka
+196,7,Demodara,6.899055,81.053273,Uva,Sri Lanka
+197,7,Diganatenna,6.8667,80.9667,Uva,Sri Lanka
+198,7,Dikkapitiya,6.7381,80.9669,Uva,Sri Lanka
+199,7,Dimbulana,7.006897,80.948431,Uva,Sri Lanka
+200,7,Divulapelessa,7.2167,81.0667,Uva,Sri Lanka
+201,7,Diyatalawa,6.8,80.9667,Uva,Sri Lanka
+202,7,Dulgolla,6.819618,81.012115,Uva,Sri Lanka
+203,7,Ekiriyankumbura,7.269736,81.226709,Uva,Sri Lanka
+204,7,Ella,6.874485,81.050937,Uva,Sri Lanka
+205,7,Ettampitiya,6.9342,80.9853,Uva,Sri Lanka
+206,7,Galauda,7.037347,80.981759,Uva,Sri Lanka
+207,7,Galporuyaya,7.4,81.05,Uva,Sri Lanka
+208,7,Gawarawela,6.897394,81.069668,Uva,Sri Lanka
+209,7,Girandurukotte,7.4,81.05,Uva,Sri Lanka
+210,7,Godunna,7.071959,80.975003,Uva,Sri Lanka
+211,7,Gurutalawa,6.8431,80.9228,Uva,Sri Lanka
+212,7,Haldummulla,6.77061,80.884385,Uva,Sri Lanka
+213,7,Hali Ela,6.95,81.0333,Uva,Sri Lanka
+214,7,Hangunnawa,6.948019,80.871427,Uva,Sri Lanka
+215,7,Haputale,6.7667,80.9667,Uva,Sri Lanka
+216,7,Hebarawa,7.2167,81.0667,Uva,Sri Lanka
+217,7,Heeloya,6.8212,80.9407,Uva,Sri Lanka
+218,7,Helahalpe,6.8212,80.9407,Uva,Sri Lanka
+219,7,Helapupula,6.8556,81.0722,Uva,Sri Lanka
+220,7,Hopton,6.9594,81.1552,Uva,Sri Lanka
+221,7,Idalgashinna,6.7833,80.9,Uva,Sri Lanka
+222,7,Kahataruppa,7.023705,81.105188,Uva,Sri Lanka
+223,7,Kalugahakandura,7.123675,81.094178,Uva,Sri Lanka
+224,7,Kalupahana,6.770298,80.854521,Uva,Sri Lanka
+225,7,Kebillawela,6.816937,80.993072,Uva,Sri Lanka
+226,7,Kendagolla,6.990765,81.110073,Uva,Sri Lanka
+227,7,Keselpotha,7.32819,81.083285,Uva,Sri Lanka
+228,7,Ketawatta,7.103503,81.080813,Uva,Sri Lanka
+229,7,Kiriwanagama,6.971183,80.91551,Uva,Sri Lanka
+230,7,Koslanda,6.759935,81.027417,Uva,Sri Lanka
+231,7,Kuruwitenna,7.2167,81.0667,Uva,Sri Lanka
+232,7,Kuttiyagolla,7.0167,81.0833,Uva,Sri Lanka
+233,7,Landewela,7.002113,81.000496,Uva,Sri Lanka
+234,7,Liyangahawela,6.817452,81.032456,Uva,Sri Lanka
+235,7,Lunugala,7.041299,81.199335,Uva,Sri Lanka
+236,7,Lunuwatta,6.953933,80.917059,Uva,Sri Lanka
+237,7,Madulsima,7.045064,81.133375,Uva,Sri Lanka
+238,7,Mahiyanganaya,7.2444,81.1167,Uva,Sri Lanka
+239,7,Makulella,6.8212,80.9407,Uva,Sri Lanka
+240,7,Malgoda,7.4,81.05,Uva,Sri Lanka
+241,7,Mapakadawewa,7.3,81.1167,Uva,Sri Lanka
+242,7,Maspanna,7.024427,80.942159,Uva,Sri Lanka
+243,7,Maussagolla,6.898433,81.147817,Uva,Sri Lanka
+244,7,Mawanagama,7.2125,81.0583,Uva,Sri Lanka
+245,7,Medawela Udukinda,6.846,80.9279,Uva,Sri Lanka
+246,7,Meegahakiula,7.0833,80.9833,Uva,Sri Lanka
+247,7,Metigahatenna,6.9667,81.0833,Uva,Sri Lanka
+248,7,Mirahawatta,6.8817,80.9347,Uva,Sri Lanka
+249,7,Miriyabedda,6.9167,81.15,Uva,Sri Lanka
+250,7,Nawamedagama,7.2125,81.0583,Uva,Sri Lanka
+251,7,Nelumgama,7,81.0917,Uva,Sri Lanka
+252,7,Nikapotha,6.740622,80.97083,Uva,Sri Lanka
+253,7,Nugatalawa,6.9,80.8833,Uva,Sri Lanka
+254,7,Ohiya,6.821352,80.841789,Uva,Sri Lanka
+255,7,Pahalarathkinda,7.4,81.05,Uva,Sri Lanka
+256,7,Pallekiruwa,7.007551,81.227033,Uva,Sri Lanka
+257,7,Passara,6.935017,81.151166,Uva,Sri Lanka
+258,7,Pattiyagedara,6.8742,80.9507,Uva,Sri Lanka
+259,7,Pelagahatenna,6.9594,81.1552,Uva,Sri Lanka
+260,7,Perawella,6.943148,80.84264,Uva,Sri Lanka
+261,7,Pitamaruwa,7.106546,81.135882,Uva,Sri Lanka
+262,7,Pitapola,6.803692,80.884474,Uva,Sri Lanka
+263,7,Puhulpola,6.907145,80.931109,Uva,Sri Lanka
+264,7,Rajagalatenna,7.5458,81.125,Uva,Sri Lanka
+265,7,Ratkarawwa,6.8,80.9167,Uva,Sri Lanka
+266,7,Ridimaliyadda,7.2333,81.1,Uva,Sri Lanka
+267,7,Silmiyapura,6.912388,80.843988,Uva,Sri Lanka
+268,7,Sirimalgoda,7.003857,81.073671,Uva,Sri Lanka
+269,7,Siripura,7.2125,81.0583,Uva,Sri Lanka
+270,7,Sorabora Colony,7.3583,81.1083,Uva,Sri Lanka
+271,7,Soragune,6.8333,80.8778,Uva,Sri Lanka
+272,7,Soranatota,7.0167,81.05,Uva,Sri Lanka
+273,7,Taldena,7.0833,81.05,Uva,Sri Lanka
+274,7,Timbirigaspitiya,7.0333,81.05,Uva,Sri Lanka
+275,7,Uduhawara,6.94706,80.85877,Uva,Sri Lanka
+276,7,Uraniya,7.237143,81.102818,Uva,Sri Lanka
+277,7,Uva Karandagolla,6.8333,81.0667,Uva,Sri Lanka
+278,7,Uva Mawelagama,6.7333,81.0167,Uva,Sri Lanka
+279,7,Uva Tenna,6.8333,80.8778,Uva,Sri Lanka
+280,7,Uva Tissapura,7.3,81.1167,Uva,Sri Lanka
+281,7,Welimada,6.906059,80.913222,Uva,Sri Lanka
+282,7,Werunketagoda,7.5458,81.125,Uva,Sri Lanka
+283,7,Wewatta,7.337729,81.201255,Uva,Sri Lanka
+284,7,Wineethagama,7.029,80.937,Uva,Sri Lanka
+285,7,Yalagamuwa,7.047834,80.950541,Uva,Sri Lanka
+286,7,Yalwela,7.2667,81.15,Uva,Sri Lanka
+1431,7,Ayiwela,7.1,81.2333,Uva,Sri Lanka
+1432,7,Badalkumbura,6.893287,81.234346,Uva,Sri Lanka
+1433,7,Baduluwela,7.11307,81.435299,Uva,Sri Lanka
+1434,7,Bakinigahawela,6.9333,81.2833,Uva,Sri Lanka
+1435,7,Balaharuwa,6.520177,81.058519,Uva,Sri Lanka
+1436,7,Bibile,7.1667,81.2167,Uva,Sri Lanka
+1437,7,Buddama,7.046413,81.486844,Uva,Sri Lanka
+1438,7,Buttala,6.75,81.2333,Uva,Sri Lanka
+1439,7,Dambagalla,6.955743,81.375946,Uva,Sri Lanka
+1440,7,Diyakobala,7.1056,81.2222,Uva,Sri Lanka
+1441,7,Dombagahawela,6.898197,81.441375,Uva,Sri Lanka
+1442,7,Ethimalewewa,6.9216,81.3833,Uva,Sri Lanka
+1443,7,Ettiliwewa,6.73,81.12,Uva,Sri Lanka
+1444,7,Galabedda,6.9167,81.3833,Uva,Sri Lanka
+1445,7,Gamewela,6.9167,81.2,Uva,Sri Lanka
+1446,7,Hambegamuwa,6.503718,80.874695,Uva,Sri Lanka
+1447,7,Hingurukaduwa,6.817257,81.153429,Uva,Sri Lanka
+1448,7,Hulandawa,6.868479,81.333215,Uva,Sri Lanka
+1449,7,Inginiyagala,7.198617,81.494496,Uva,Sri Lanka
+1450,7,Kandaudapanguwa,6.9667,81.5167,Uva,Sri Lanka
+1451,7,Kandawinna,6.9333,81.2833,Uva,Sri Lanka
+1452,7,Kataragama,6.4167,81.3333,Uva,Sri Lanka
+1453,7,Kotagama,7.116448,81.17788,Uva,Sri Lanka
+1454,7,Kotamuduna,6.892542,81.177651,Uva,Sri Lanka
+1455,7,Kotawehera Mankada,6.4636,81.053,Uva,Sri Lanka
+1456,7,Kudawewa,6.4167,81.0333,Uva,Sri Lanka
+1457,7,Kumbukkana,6.814795,81.274913,Uva,Sri Lanka
+1458,7,Marawa,6.805944,81.381458,Uva,Sri Lanka
+1459,7,Mariarawa,6.975969,81.481047,Uva,Sri Lanka
+1460,7,Medagana,6.9333,81.2833,Uva,Sri Lanka
+1461,7,Medawelagama,6.9167,81.2,Uva,Sri Lanka
+1462,7,Miyanakandura,6.869169,81.152967,Uva,Sri Lanka
+1463,7,Monaragala,6.8667,81.35,Uva,Sri Lanka
+1464,7,Moretuwegama,6.75,81.2333,Uva,Sri Lanka
+1465,7,Nakkala,6.887816,81.306082,Uva,Sri Lanka
+1466,7,Namunukula,6.8667,81.1167,Uva,Sri Lanka
+1467,7,Nannapurawa,7.0833,81.25,Uva,Sri Lanka
+1468,7,Nelliyadda,7.389929,81.408141,Uva,Sri Lanka
+1469,7,Nilgala,7.215945,81.312806,Uva,Sri Lanka
+1470,7,Obbegoda,6.8786,81.3476,Uva,Sri Lanka
+1471,7,Okkampitiya,6.753201,81.29752,Uva,Sri Lanka
+1472,7,Pangura,6.9833,81.3167,Uva,Sri Lanka
+1473,7,Pitakumbura,7.191575,81.27524,Uva,Sri Lanka
+1474,7,Randeniya,6.803474,81.1119,Uva,Sri Lanka
+1475,7,Ruwalwela,7.017476,81.386203,Uva,Sri Lanka
+1476,7,Sella Kataragama,6.4167,81.3333,Uva,Sri Lanka
+1477,7,Siyambalagune,6.8,81.1333,Uva,Sri Lanka
+1478,7,Siyambalanduwa,6.910581,81.552112,Uva,Sri Lanka
+1479,7,Suriara,6.4636,81.053,Uva,Sri Lanka
+1480,7,Tanamalwila,6.4333,81.1333,Uva,Sri Lanka
+1481,7,Uva Gangodagama,7.0056,81.4222,Uva,Sri Lanka
+1482,7,Uva Kudaoya,6.75,81.2,Uva,Sri Lanka
+1483,7,Uva Pelwatta,6.75,81.2333,Uva,Sri Lanka
+1484,7,Warunagama,6.75,81.2333,Uva,Sri Lanka
+1485,7,Wedikumbura,6.8333,81.3833,Uva,Sri Lanka
+1486,7,Weherayaya Handapanagala,6.7778,81.1167,Uva,Sri Lanka
+1487,7,Wellawaya,6.719458,81.106295,Uva,Sri Lanka
+1488,7,Wilaoya,6.9216,81.3833,Uva,Sri Lanka
+1489,7,Yudaganawa,6.776882,81.229725,Uva,Sri Lanka
+43,8,Angamuwa,8.177645,80.205048,North Central,Sri Lanka
+44,8,Anuradhapura,8.35,80.3833,North Central,Sri Lanka
+45,8,Awukana,7.9753,80.5266,North Central,Sri Lanka
+46,8,Bogahawewa,8.328993,80.251702,North Central,Sri Lanka
+47,8,Dematawewa,8.357373,80.870087,North Central,Sri Lanka
+48,8,Dimbulagala,7.9167,80.55,North Central,Sri Lanka
+49,8,Dutuwewa,8.65,80.5167,North Central,Sri Lanka
+50,8,Elayapattuwa,8.413522,80.318148,North Central,Sri Lanka
+51,8,Ellewewa,7.9167,80.55,North Central,Sri Lanka
+52,8,Eppawala,8.1167,80.7333,North Central,Sri Lanka
+53,8,Etawatunuwewa,8.5595,80.5476,North Central,Sri Lanka
+54,8,Etaweeragollewa,8.613962,80.539713,North Central,Sri Lanka
+55,8,Galapitagala,8.089843,80.685528,North Central,Sri Lanka
+56,8,Galenbindunuwewa,8.5833,80.55,North Central,Sri Lanka
+57,8,Galkadawala,8.412861,80.378175,North Central,Sri Lanka
+58,8,Galkiriyagama,7.9414,80.565,North Central,Sri Lanka
+59,8,Galkulama,8.270414,80.506526,North Central,Sri Lanka
+60,8,Galnewa,8.2,80.3667,North Central,Sri Lanka
+61,8,Gambirigaswewa,8.4667,80.3667,North Central,Sri Lanka
+62,8,Ganewalpola,8.090528,80.628195,North Central,Sri Lanka
+63,8,Gemunupura,8.0667,80.6833,North Central,Sri Lanka
+64,8,Getalawa,8.6167,80.5333,North Central,Sri Lanka
+65,8,Gnanikulama,8.297336,80.431753,North Central,Sri Lanka
+66,8,Gonahaddenawa,8.5333,80.5083,North Central,Sri Lanka
+67,8,Habarana,8.047531,80.748664,North Central,Sri Lanka
+68,8,Halmillawa Dambulla,7.9474,80.594,North Central,Sri Lanka
+69,8,Halmillawetiya,8.35,80.2667,North Central,Sri Lanka
+70,8,Hidogama,8.250421,80.418663,North Central,Sri Lanka
+71,8,Horawpatana,8.4333,80.8667,North Central,Sri Lanka
+72,8,Horiwila,8.0667,80.6833,North Central,Sri Lanka
+73,8,Hurigaswewa,8.1333,80.3667,North Central,Sri Lanka
+74,8,Hurulunikawewa,8.6167,80.5333,North Central,Sri Lanka
+75,8,Ihala Puliyankulama,8.153213,80.559989,North Central,Sri Lanka
+76,8,Kagama,8.061465,80.478039,North Central,Sri Lanka
+77,8,Kahatagasdigiliya,8.4167,80.6833,North Central,Sri Lanka
+78,8,Kahatagollewa,8.45,80.65,North Central,Sri Lanka
+79,8,Kalakarambewa,8.0833,80.4667,North Central,Sri Lanka
+80,8,Kalaoya,8.0667,80.6833,North Central,Sri Lanka
+81,8,Kalawedi Ulpotha,8.5333,80.5083,North Central,Sri Lanka
+82,8,Kallanchiya,8.45,80.55,North Central,Sri Lanka
+83,8,Kalpitiya,8.2333,79.7667,North Central,Sri Lanka
+84,8,Kalukele Badanagala,7.9167,80.55,North Central,Sri Lanka
+85,8,Kapugallawa,8.4233,80.6783,North Central,Sri Lanka
+86,8,Karagahawewa,8.23416,80.322772,North Central,Sri Lanka
+87,8,Kashyapapura,7.9167,80.55,North Central,Sri Lanka
+88,8,Kebithigollewa,8.5333,80.4833,North Central,Sri Lanka
+89,8,Kekirawa,8.037462,80.59801,North Central,Sri Lanka
+90,8,Kendewa,8.4833,80.6,North Central,Sri Lanka
+91,8,Kiralogama,8.19407,80.37012,North Central,Sri Lanka
+92,8,Kirigalwewa,8.537767,80.556651,North Central,Sri Lanka
+93,8,Kirimundalama,8.2333,79.7667,North Central,Sri Lanka
+94,8,Kitulhitiyawa,7.916592,80.63811,North Central,Sri Lanka
+95,8,Kurundankulama,8.2,80.45,North Central,Sri Lanka
+96,8,Labunoruwa,8.168026,80.617001,North Central,Sri Lanka
+97,8,Ihalagama,8.35,80.5,North Central,Sri Lanka
+98,8,Ipologama,8.0833,80.4667,North Central,Sri Lanka
+99,8,Madatugama,7.940041,80.638217,North Central,Sri Lanka
+100,8,Maha Elagamuwa,7.991935,80.61824,North Central,Sri Lanka
+101,8,Mahabulankulama,7.9753,80.5266,North Central,Sri Lanka
+102,8,Mahailluppallama,8.106,80.3619,North Central,Sri Lanka
+103,8,Mahakanadarawa,8.35,80.5,North Central,Sri Lanka
+104,8,Mahapothana,8.4167,80.6833,North Central,Sri Lanka
+105,8,Mahasenpura,8.5595,80.5476,North Central,Sri Lanka
+106,8,Mahawilachchiya,8.2814,80.4588,North Central,Sri Lanka
+107,8,Mailagaswewa,8.4,80.6333,North Central,Sri Lanka
+108,8,Malwanagama,8.225,80.3333,North Central,Sri Lanka
+109,8,Maneruwa,7.895997,80.475966,North Central,Sri Lanka
+110,8,Maradankadawala,8.1333,80.4833,North Central,Sri Lanka
+111,8,Maradankalla,8.317498,80.537899,North Central,Sri Lanka
+112,8,Medawachchiya,8.540822,80.495957,North Central,Sri Lanka
+113,8,Megodawewa,8.2333,80.7333,North Central,Sri Lanka
+114,8,Mihintale,8.35,80.5,North Central,Sri Lanka
+115,8,Morakewa,8.513051,80.778223,North Central,Sri Lanka
+116,8,Mulkiriyawa,8.4167,80.6833,North Central,Sri Lanka
+117,8,Muriyakadawala,8.236464,80.654663,North Central,Sri Lanka
+119,8,Nachchaduwa,8.2667,80.4667,North Central,Sri Lanka
+120,8,Namalpura,8.2333,80.7333,North Central,Sri Lanka
+121,8,Negampaha,7.9872,80.4597,North Central,Sri Lanka
+122,8,Nochchiyagama,8.266802,80.20823,North Central,Sri Lanka
+123,8,Nuwaragala,7.9167,80.55,North Central,Sri Lanka
+124,8,Padavi Maithripura,8.5595,80.5476,North Central,Sri Lanka
+125,8,Padavi Parakramapura,8.5595,80.5476,North Central,Sri Lanka
+126,8,Padavi Sripura,8.5595,80.5476,North Central,Sri Lanka
+127,8,Padavi Sritissapura,8.5595,80.5476,North Central,Sri Lanka
+128,8,Padaviya,8.5595,80.5476,North Central,Sri Lanka
+129,8,Padikaramaduwa,8.2333,80.7333,North Central,Sri Lanka
+130,8,Pahala Halmillewa,8.21672,80.19116,North Central,Sri Lanka
+131,8,Pahala Maragahawe,8.0667,80.6833,North Central,Sri Lanka
+132,8,Pahalagama,8.186896,80.283767,North Central,Sri Lanka
+133,8,Palugaswewa,8.053538,80.71918,North Central,Sri Lanka
+134,8,Pandukabayapura,8.4467,80.46731,North Central,Sri Lanka
+135,8,Pandulagama,8.2814,80.4588,North Central,Sri Lanka
+136,8,Parakumpura,8.4167,80.6833,North Central,Sri Lanka
+137,8,Parangiyawadiya,8.491831,80.910014,North Central,Sri Lanka
+138,8,Parasangahawewa,8.4333,80.4333,North Central,Sri Lanka
+139,8,Pelatiyawa,7.9167,80.55,North Central,Sri Lanka
+140,8,Pemaduwa,8.2814,80.4588,North Central,Sri Lanka
+141,8,Perimiyankulama,8.270584,80.535827,North Central,Sri Lanka
+142,8,Pihimbiyagolewa,8.5595,80.5476,North Central,Sri Lanka
+143,8,Pubbogama,7.9167,80.6,North Central,Sri Lanka
+144,8,Punewa,8.6167,80.4667,North Central,Sri Lanka
+145,8,Rajanganaya,8.1708,80.2833,North Central,Sri Lanka
+146,8,Rambewa,8.4333,80.5,North Central,Sri Lanka
+147,8,Rampathwila,8.4,80.6333,North Central,Sri Lanka
+148,8,Rathmalgahawewa,8.5595,80.5476,North Central,Sri Lanka
+149,8,Saliyapura,8.3389,80.4333,North Central,Sri Lanka
+150,8,Seeppukulama,8.4,80.6333,North Central,Sri Lanka
+151,8,Senapura,8.0833,80.4667,North Central,Sri Lanka
+152,8,Sivalakulama,8.25237,80.641743,North Central,Sri Lanka
+153,8,Siyambalewa,7.95,80.5167,North Central,Sri Lanka
+154,8,Sravasthipura,8.2667,80.4333,North Central,Sri Lanka
+155,8,Talawa,8.2167,80.35,North Central,Sri Lanka
+156,8,Tambuttegama,8.15,80.3,North Central,Sri Lanka
+157,8,Tammennawa,8.0333,80.6,North Central,Sri Lanka
+158,8,Tantirimale,8.4,80.3,North Central,Sri Lanka
+159,8,Telhiriyawa,8.15,80.3333,North Central,Sri Lanka
+160,8,Tirappane,8.2167,80.3833,North Central,Sri Lanka
+161,8,Tittagonewa,8.7167,80.75,North Central,Sri Lanka
+162,8,Udunuwara Colony,8.2417,80.1917,North Central,Sri Lanka
+163,8,Upuldeniya,8.4,80.6333,North Central,Sri Lanka
+164,8,Uttimaduwa,8.254989,80.55487,North Central,Sri Lanka
+165,8,Vellamanal,8.5167,81.1833,North Central,Sri Lanka
+166,8,Viharapalugama,8.4,80.3,North Central,Sri Lanka
+167,8,Wahalkada,8.5667,80.6222,North Central,Sri Lanka
+168,8,Wahamalgollewa,8.479838,80.497451,North Central,Sri Lanka
+169,8,Walagambahuwa,8.153134,80.499049,North Central,Sri Lanka
+170,8,Walahaviddawewa,8.5595,80.5476,North Central,Sri Lanka
+171,8,Welimuwapotana,8.4333,80.8667,North Central,Sri Lanka
+172,8,Welioya Project,8.5595,80.5476,North Central,Sri Lanka
+1566,8,Attanakadawala,7.903734,80.828104,North Central,Sri Lanka
+1567,8,Bakamuna,7.7833,80.8167,North Central,Sri Lanka
+1568,8,Diyabeduma,7.89851,80.898332,North Central,Sri Lanka
+1569,8,Elahera,7.7244,80.7883,North Central,Sri Lanka
+1570,8,Giritale,7.9833,80.9333,North Central,Sri Lanka
+1571,8,Hingurakdamana,8.055896,81.011875,North Central,Sri Lanka
+1572,8,Hingurakgoda,8.036505,80.948686,North Central,Sri Lanka
+1573,8,Jayanthipura,8,81,North Central,Sri Lanka
+1574,8,Kalingaela,7.9583,81.0417,North Central,Sri Lanka
+1575,8,Lakshauyana,7.9583,81.0417,North Central,Sri Lanka
+1576,8,Mankemi,7.9833,81.25,North Central,Sri Lanka
+1577,8,Minneriya,8.036343,80.903215,North Central,Sri Lanka
+1578,8,Onegama,7.992203,81.090758,North Central,Sri Lanka
+1579,8,Orubendi Siyambalawa,7.751972,80.812093,North Central,Sri Lanka
+1580,8,Palugasdamana,8.0167,81.0833,North Central,Sri Lanka
+1581,8,Panichankemi,7.9833,81.25,North Central,Sri Lanka
+1582,8,Polonnaruwa,7.940295,81.007138,North Central,Sri Lanka
+1583,8,Talpotha,8.0167,81.0833,North Central,Sri Lanka
+1584,8,Tambala,8.0167,81.0833,North Central,Sri Lanka
+1585,8,Unagalavehera,8.001006,80.995549,North Central,Sri Lanka
+1586,8,Wijayabapura,8.0167,81.0833,North Central,Sri Lanka
+654,9,Jaffna,9.660668,80.022706,Northern,Sri Lanka
+1027,9,Kandavalai,9.4515585,80.5008173,Northern,Sri Lanka
+1028,9,Karachchi,9.3769363,80.3766044,Northern,Sri Lanka
+1029,9,Kilinochchi,9.416667,80.416667,Northern,Sri Lanka
+1030,9,Pachchilaipalli,9.6115808,80.3273106,Northern,Sri Lanka
+1031,9,Poonakary,9.5035013,80.2111173,Northern,Sri Lanka
+1285,9,Mannar,8.9833,79.9,Northern,Sri Lanka
+1286,9,Puthukudiyiruppu,9.046951,79.853286,Northern,Sri Lanka
+1490,9,Mullativu,9.266667,80.816667,Northern,Sri Lanka
+1836,9,Vavuniya,8.758818,80.493461,Northern,Sri Lanka
